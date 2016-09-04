@@ -1,0 +1,1248 @@
+
+==================== FINAL INTERFACE ====================
+2016-09-04 05:40:17.53447 UTC
+
+interface main@main:Main 7103
+  interface hash: 39e1322fc851b6b0b923eb3b3a71dddf
+  ABI hash: e7ffc003c43133606944e6c541e0b8ab
+  export-list hash: 8a9600d14143d5635921e4544e5bc48b
+  orphan hash: 693e9af84d3dfcc71e640e005bdc5e2e
+  flag hash: 95c8e92c33311da1b944f1b4f2f8644a
+  sig of: Nothing
+  used TH splices: False
+  where
+exports:
+  Main.colorStrLn
+  Main.initStdout
+  Main.main
+  Main.rA
+  Main.rB
+  Main.r_P
+  Main.r_S
+  Main.r_SP
+  Main.r_prodA
+  Main.r_prodB
+module dependencies:
+package dependencies: ansi-terminal-0.6.2.3@ansit_BDlVdfJGo3VHCIHxPTNjH1
+                      array-0.5.1.0@array_67iodizgJQIIxYVTp4emlA
+                      attoparsec-0.13.0.2@attop_F2JR8EcnzjH8eSBi5YocsE base-4.8.2.0
+                      binary-0.7.5.0@binar_3uXFWMoAGBg0xKP9MHKRwi
+                      blaze-builder-0.4.0.2@blaze_5LQurmvTy7l9rPlWgPlNE4
+                      bytestring-0.10.6.0@bytes_6VWy06pWzJq9evDvK2d4w6
+                      conduit-1.2.7@condu_6OSrnRI6RqIGBv7ZPG9IV6
+                      conduit-extra-1.1.13.2@condu_ErVEtE0OOPvEOsJa6HCflV
+                      containers-0.5.6.2@conta_2C3ZI8RgPO2LBMidXKTvIU
+                      csv-conduit-0.6.6@csvco_I29qc2DQAP4D0zYliC1Uwd
+                      data-default-instances-base-0.1.0@datad_2INJRDvgZ4jDHH2QJIQkcK
+                      data-default-0.5.3@datad_91CrM49egJd0Gm9c4dN01A
+                      data-default-instances-dlist-0.0.1@datad_IV2dTGx3Pj09NowR0FWGzk
+                      data-default-instances-containers-0.0.1@datad_IvTKAI579b047LLJfQOYbY
+                      data-default-class-0.0.1@datad_K91y8NcZUJI9yaBI61rgdD
+                      data-default-instances-old-locale-0.0.1@datad_LQTewb1b5hK22W4h2rIWVQ
+                      deepseq-1.4.1.1@deeps_6vMKxt5sPFR0XsbRWvvq59
+                      directory-1.2.2.0@direc_0hFG6ZxK1nk4zsyOqbNHfm
+                      dlist-0.7.1.2@dlist_AO7XAasbAeyL0XLKeq1Aui
+                      exceptions-0.8.3@excep_BEih2K3eMGTE4cg5iulra8
+                      filepath-1.4.0.0@filep_Ey7a1in9roBAE8bUFJ5R9m ghc-prim-0.4.0.0
+                      hashable-1.2.4.0@hasha_EalUWgp8NarBYWPbvYAD8I integer-gmp-1.0.0.0
+                      lifted-base-0.2.3.8@lifte_27kQ9DytVyu5Pw2So1Igy3
+                      mmorph-1.0.6@mmorp_42KUkOfzC6q3qCtAMiSHam
+                      monad-control-1.0.1.0@monad_7Tqv3C2ASZP4J7swGaIkqS
+                      mtl-2.2.1@mtl_Aue4leSeVkpKLsfHIV51E8
+                      old-locale-1.0.0.7@oldlo_7h2Gx6mVPJ5Gheca8j9Mpe
+                      primitive-0.6.1.0@primi_EphY2c7CCxSCBKjAN0YTR3
+                      relation-tool-0.1.0.0@relat_8Cyn3M6UKgN11sASBif9n4
+                      resourcet-1.1.7.5@resou_165wgeXO1n8BEqynSK393U
+                      scientific-0.3.4.9@scien_1WVNjGUftkQ9QzH4DOM2n1
+                      split-0.2.3.1@split_2IxbOPGrTSq7kFrJA7odmE
+                      stm-2.4.4.1@stm_EyxFXFfnfY05IrjGaqCxeD
+                      streaming-commons-0.1.15.5@strea_2a9C3L0IVZc79BZaLNwyzG
+                      template-haskell-2.10.0.0 text-1.2.2.1@text_HmqVQnZSpjaC156ABqPhne
+                      time-1.5.0.1@time_FTheb6LSxyX1UABIbBXRfn
+                      transformers-base-0.4.4@trans_74WedXVmfaHHDJItmBRTVp
+                      transformers-0.4.2.0@trans_GZTjP9K5WFq01xC9BAGQpF
+                      unix-2.7.1.0@unix_KZL8h98IqDM57kQSPo1mKx
+                      vector-0.11.0.0@vecto_LmZ3LQW4ivu8MsQuVgukln
+orphans: attoparsec-0.13.0.2@attop_F2JR8EcnzjH8eSBi5YocsE:Data.Attoparsec.ByteString.Char8
+         attoparsec-0.13.0.2@attop_F2JR8EcnzjH8eSBi5YocsE:Data.Attoparsec.Text.Internal
+         base-4.8.2.0:GHC.Base base-4.8.2.0:GHC.Float
+         binary-0.7.5.0@binar_3uXFWMoAGBg0xKP9MHKRwi:Data.Binary.Generic
+         bytestring-0.10.6.0@bytes_6VWy06pWzJq9evDvK2d4w6:Data.ByteString.Builder
+         data-default-instances-base-0.1.0@datad_2INJRDvgZ4jDHH2QJIQkcK:Data.Default.Instances.Base
+         data-default-instances-dlist-0.0.1@datad_IV2dTGx3Pj09NowR0FWGzk:Data.Default.Instances.DList
+         data-default-instances-containers-0.0.1@datad_IvTKAI579b047LLJfQOYbY:Data.Default.Instances.Containers
+         data-default-instances-old-locale-0.0.1@datad_LQTewb1b5hK22W4h2rIWVQ:Data.Default.Instances.OldLocale
+         hashable-1.2.4.0@hasha_EalUWgp8NarBYWPbvYAD8I:Data.Hashable.Generic
+         stm-2.4.4.1@stm_EyxFXFfnfY05IrjGaqCxeD:Control.Monad.STM
+         text-1.2.2.1@text_HmqVQnZSpjaC156ABqPhne:Data.Text
+         text-1.2.2.1@text_HmqVQnZSpjaC156ABqPhne:Data.Text.Lazy
+         text-1.2.2.1@text_HmqVQnZSpjaC156ABqPhne:Data.Text.Show
+         time-1.5.0.1@time_FTheb6LSxyX1UABIbBXRfn:Data.Time.Calendar.Gregorian
+         time-1.5.0.1@time_FTheb6LSxyX1UABIbBXRfn:Data.Time.Format.Parse
+         time-1.5.0.1@time_FTheb6LSxyX1UABIbBXRfn:Data.Time.LocalTime.LocalTime
+         transformers-0.4.2.0@trans_GZTjP9K5WFq01xC9BAGQpF:Control.Monad.Trans.Error
+         vector-0.11.0.0@vecto_LmZ3LQW4ivu8MsQuVgukln:Data.Vector.Fusion.Bundle
+         vector-0.11.0.0@vecto_LmZ3LQW4ivu8MsQuVgukln:Data.Vector.Unboxed
+family instance modules: attoparsec-0.13.0.2@attop_F2JR8EcnzjH8eSBi5YocsE:Data.Attoparsec.Internal.Types
+                         base-4.8.2.0:Control.Applicative base-4.8.2.0:Data.Either
+                         base-4.8.2.0:Data.Functor.Identity base-4.8.2.0:Data.Monoid
+                         base-4.8.2.0:Data.Type.Equality base-4.8.2.0:Data.Void
+                         base-4.8.2.0:GHC.Exts base-4.8.2.0:GHC.Generics
+                         containers-0.5.6.2@conta_2C3ZI8RgPO2LBMidXKTvIU:Data.IntMap.Base
+                         containers-0.5.6.2@conta_2C3ZI8RgPO2LBMidXKTvIU:Data.IntSet.Base
+                         containers-0.5.6.2@conta_2C3ZI8RgPO2LBMidXKTvIU:Data.Map.Base
+                         containers-0.5.6.2@conta_2C3ZI8RgPO2LBMidXKTvIU:Data.Sequence
+                         containers-0.5.6.2@conta_2C3ZI8RgPO2LBMidXKTvIU:Data.Set.Base
+                         dlist-0.7.1.2@dlist_AO7XAasbAeyL0XLKeq1Aui:Data.DList
+                         monad-control-1.0.1.0@monad_7Tqv3C2ASZP4J7swGaIkqS:Control.Monad.Trans.Control
+                         primitive-0.6.1.0@primi_EphY2c7CCxSCBKjAN0YTR3:Control.Monad.Primitive
+                         resourcet-1.1.7.5@resou_165wgeXO1n8BEqynSK393U:Control.Monad.Trans.Resource.Internal
+                         template-haskell-2.10.0.0:Language.Haskell.TH.Syntax
+                         text-1.2.2.1@text_HmqVQnZSpjaC156ABqPhne:Data.Text
+                         text-1.2.2.1@text_HmqVQnZSpjaC156ABqPhne:Data.Text.Lazy
+                         vector-0.11.0.0@vecto_LmZ3LQW4ivu8MsQuVgukln:Data.Vector
+                         vector-0.11.0.0@vecto_LmZ3LQW4ivu8MsQuVgukln:Data.Vector.Primitive
+                         vector-0.11.0.0@vecto_LmZ3LQW4ivu8MsQuVgukln:Data.Vector.Unboxed
+                         vector-0.11.0.0@vecto_LmZ3LQW4ivu8MsQuVgukln:Data.Vector.Unboxed.Base
+import  -/  ansi-terminal-0.6.2.3@ansit_BDlVdfJGo3VHCIHxPTNjH1:System.Console.ANSI b9ceebd406bd61b44d2625b896f1cfde
+import  -/  ansi-terminal-0.6.2.3@ansit_BDlVdfJGo3VHCIHxPTNjH1:System.Console.ANSI.Common 672696d733d4705f78099c6075f6804d
+import  -/  ansi-terminal-0.6.2.3@ansit_BDlVdfJGo3VHCIHxPTNjH1:System.Console.ANSI.Unix a337ae3aee71ac9000b889bf0b7c0b5e
+import  -/  base-4.8.2.0:Data.Word ec8deb535202352cc8b509b14004bcbd
+import  -/  base-4.8.2.0:GHC.Base 1db77db5dae73d8c424c85b09fbadb89
+import  -/  base-4.8.2.0:GHC.Num 9f42750c866f5832ca565146bd660c60
+import  -/  base-4.8.2.0:GHC.Show 0e1d8380a8fb0cfb07ebeda3b70cbf38
+import  -/  base-4.8.2.0:Prelude 694dcaf039efe62df1c44834e2dbd2fb
+import  -/  base-4.8.2.0:System.IO 0248c1e850b7ea124cf7a2e1669ebf67
+import  -/  bytestring-0.10.6.0@bytes_6VWy06pWzJq9evDvK2d4w6:Data.ByteString a7dd1816d7b9a73f13bb7af0c321dca4
+import  -/  containers-0.5.6.2@conta_2C3ZI8RgPO2LBMidXKTvIU:Data.Set 7116dff3002cb8f8fc1c63ac63f4ea50
+import  -/  ghc-prim-0.4.0.0:GHC.Classes e1f4ff80f7b5262008a595d29986fb18
+import  -/  ghc-prim-0.4.0.0:GHC.Types 6b27fb3fdbd0e3f0925a4496c66513bb
+import  -/  relation-tool-0.1.0.0@relat_8Cyn3M6UKgN11sASBif9n4:Algebra 68bc6436a52c252ab0874baddf441a15
+import  -/  relation-tool-0.1.0.0@relat_8Cyn3M6UKgN11sASBif9n4:Algebra.Function 54aae7380abe31d79a86942e8e057998
+import  -/  relation-tool-0.1.0.0@relat_8Cyn3M6UKgN11sASBif9n4:Relvar c43138de2e31a037b92dfb3f1ff8bcdd
+import  -/  relation-tool-0.1.0.0@relat_8Cyn3M6UKgN11sASBif9n4:Relvar.CSV 9ef815406275167ddc172649201f11c0
+import  -/  relation-tool-0.1.0.0@relat_8Cyn3M6UKgN11sASBif9n4:Relvar.Pretty ede725e7ed29448eac2b73158fd3c390
+import  -/  text-1.2.2.1@text_HmqVQnZSpjaC156ABqPhne:Data.Text 677c532e2dd56476a11a0a8a53880ce7
+import  -/  text-1.2.2.1@text_HmqVQnZSpjaC156ABqPhne:Data.Text.Encoding 5656db66e8e3c257ad9eec49726f7858
+import  -/  text-1.2.2.1@text_HmqVQnZSpjaC156ABqPhne:Data.Text.IO 4cee1d85a3c7d8e2e10b21ed89777999
+import  -/  time-1.5.0.1@time_FTheb6LSxyX1UABIbBXRfn:Data.Time 05c0775841fb44d3c8063cb78d933b0f
+import  -/  time-1.5.0.1@time_FTheb6LSxyX1UABIbBXRfn:Data.Time.Clock cfe649b0228df9903215589f6caa4e98
+7a2b93570d79f4fff3f8a53a1332c11f
+  colorStrLn ::
+    System.Console.ANSI.Common.ColorIntensity
+    -> System.Console.ANSI.Common.Color
+    -> System.Console.ANSI.Common.ColorIntensity
+    -> System.Console.ANSI.Common.Color
+    -> GHC.Base.String
+    -> GHC.Types.IO ()
+  {- Arity: 6, Strictness: <L,U><L,U><L,U><L,U><L,1*U><L,U>,
+     Unfolding: InlineRule (0, True, True)
+                Main.colorStrLn1
+                  `cast`
+                (<System.Console.ANSI.Common.ColorIntensity>_R
+                 ->_R <System.Console.ANSI.Common.Color>_R
+                 ->_R <System.Console.ANSI.Common.ColorIntensity>_R
+                 ->_R <System.Console.ANSI.Common.Color>_R
+                 ->_R <GHC.Base.String>_R
+                 ->_R Sym (GHC.Types.NTCo:IO[0] <()>_R)) -}
+1749a1930e0173e1bb69a8443ef1d96f
+  colorStrLn1 ::
+    System.Console.ANSI.Common.ColorIntensity
+    -> System.Console.ANSI.Common.Color
+    -> System.Console.ANSI.Common.ColorIntensity
+    -> System.Console.ANSI.Common.Color
+    -> GHC.Base.String
+    -> GHC.Prim.State# GHC.Prim.RealWorld
+    -> (# GHC.Prim.State# GHC.Prim.RealWorld, () #)
+  {- Arity: 6, Strictness: <L,U><L,U><L,U><L,U><L,1*U><L,U>,
+     Unfolding: (\ fgi :: System.Console.ANSI.Common.ColorIntensity
+                   fg :: System.Console.ANSI.Common.Color
+                   bgi :: System.Console.ANSI.Common.ColorIntensity
+                   bg :: System.Console.ANSI.Common.Color
+                   str :: GHC.Base.String
+                   s :: GHC.Prim.State# GHC.Prim.RealWorld[OneShot] ->
+                 case GHC.IO.Handle.Text.hPutStr2
+                        GHC.IO.Handle.FD.stdout
+                        (System.Console.ANSI.Unix.csi
+                           (GHC.Types.:
+                              @ GHC.Types.Int
+                              (case System.Console.ANSI.Unix.$wsgrToCode
+                                      (System.Console.ANSI.Common.SetColor
+                                         System.Console.ANSI.Common.Foreground
+                                         fgi
+                                         fg) of ww { DEFAULT ->
+                               GHC.Types.I# ww })
+                              (GHC.Types.:
+                                 @ GHC.Types.Int
+                                 (case System.Console.ANSI.Unix.$wsgrToCode
+                                         (System.Console.ANSI.Common.SetColor
+                                            System.Console.ANSI.Common.Background
+                                            bgi
+                                            bg) of ww { DEFAULT ->
+                                  GHC.Types.I# ww })
+                                 (GHC.Types.[] @ GHC.Types.Int)))
+                           System.Console.ANSI.Unix.setSGRCode1)
+                        GHC.Types.False
+                        s of ds1 { (#,#) ipv ipv1 ->
+                 case GHC.IO.Handle.Text.hPutStr2
+                        GHC.IO.Handle.FD.stdout
+                        str
+                        GHC.Types.False
+                        ipv of ds2 { (#,#) ipv2 ipv3 ->
+                 case GHC.IO.Handle.Text.hPutStr2
+                        GHC.IO.Handle.FD.stdout
+                        Main.colorStrLn2
+                        GHC.Types.False
+                        ipv2 of ds3 { (#,#) ipv4 ipv5 ->
+                 GHC.IO.Handle.Text.hPutStr2
+                   GHC.IO.Handle.FD.stdout
+                   (GHC.Types.[] @ GHC.Types.Char)
+                   GHC.Types.True
+                   ipv4 } } }) -}
+d1d0a1ecb5db506362339c5ae504990d
+  colorStrLn2 :: GHC.Base.String
+  {- Unfolding: (System.Console.ANSI.Unix.csi
+                   (GHC.Types.[] @ GHC.Types.Int)
+                   System.Console.ANSI.Unix.setSGRCode1) -}
+932c1dc25fceeb16d344bec10e56b0d5
+  initStdout :: GHC.Base.String -> GHC.Types.IO ()
+  {- Arity: 2, Strictness: <L,1*U><L,U>,
+     Unfolding: InlineRule (0, True, True)
+                Main.initStdout1
+                  `cast`
+                (<GHC.Base.String>_R ->_R Sym (GHC.Types.NTCo:IO[0] <()>_R)) -}
+6a376d3823d3e371954d6fb3eb50c81d
+  initStdout1 ::
+    GHC.Base.String
+    -> GHC.Prim.State# GHC.Prim.RealWorld
+    -> (# GHC.Prim.State# GHC.Prim.RealWorld, () #)
+  {- Arity: 2, Strictness: <L,1*U><L,U>,
+     Unfolding: (\ title :: GHC.Base.String
+                   eta :: GHC.Prim.State# GHC.Prim.RealWorld[OneShot] ->
+                 case GHC.IO.Handle.Text.hPutStr2
+                        GHC.IO.Handle.FD.stdout
+                        System.Console.ANSI.Unix.clearScreenCode
+                        GHC.Types.False
+                        eta of ds1 { (#,#) ipv ipv1 ->
+                 case GHC.IO.Handle.Text.hPutStr2
+                        GHC.IO.Handle.FD.stdout
+                        Main.initStdout2
+                        GHC.Types.False
+                        ipv of ds2 { (#,#) ipv2 ipv3 ->
+                 Main.colorStrLn1
+                   System.Console.ANSI.Common.Vivid
+                   System.Console.ANSI.Common.White
+                   System.Console.ANSI.Common.Vivid
+                   System.Console.ANSI.Common.Red
+                   title
+                   ipv2 } }) -}
+d23a02c26a0821d22a4431dc93aa9d60
+  initStdout2 :: GHC.Base.String
+  {- Unfolding: (System.Console.ANSI.Unix.csi
+                   Main.initStdout3
+                   System.Console.ANSI.Unix.setCursorPositionCode1) -}
+b3dc2bf247b3296b65c6ae7aaef3335e
+  initStdout3 :: [GHC.Types.Int]
+  {- HasNoCafRefs,
+     Unfolding: (GHC.Types.:
+                   @ GHC.Types.Int
+                   Main.initStdout5
+                   Main.initStdout4) -}
+ec629a0ecaf6277f8601bf9c6de913c3
+  initStdout4 :: [GHC.Types.Int]
+  {- HasNoCafRefs,
+     Unfolding: (GHC.Types.:
+                   @ GHC.Types.Int
+                   Main.initStdout5
+                   (GHC.Types.[] @ GHC.Types.Int)) -}
+76bf0a2e6db0a4fe5ceea21c07f86a3b
+  initStdout5 :: GHC.Types.Int
+  {- HasNoCafRefs, Unfolding: (GHC.Types.I# 1) -}
+ee6590a2ab0ffaa5074d93f2d3fc4c03
+  main :: GHC.Types.IO ()
+  {- Arity: 1, Strictness: <L,U>,
+     Unfolding: InlineRule (0, True, True)
+                Main.main1 `cast` (Sym (GHC.Types.NTCo:IO[0] <()>_R)) -}
+e3bd864fe81295cabb6b36ca45539f6f
+  main1 ::
+    GHC.Prim.State# GHC.Prim.RealWorld
+    -> (# GHC.Prim.State# GHC.Prim.RealWorld, () #)
+  {- Arity: 1, Strictness: <L,U> -}
+20688fff09df92565d9be8c5f0313411
+  main2 ::
+    GHC.Prim.State# GHC.Prim.RealWorld
+    -> (# GHC.Prim.State# GHC.Prim.RealWorld, () #)
+  {- Arity: 1,
+     Unfolding: (GHC.TopHandler.runMainIO1
+                   @ ()
+                   Main.main1 `cast` (Sym (GHC.Types.NTCo:IO[0] <()>_R))) -}
+808d37ecf53cbb65bfefa08c3ed6f152
+  rA :: Relvar.Relvar
+  {- Unfolding: (case Relvar.$wrelvar
+                        Main.rA25
+                        Main.rA21
+                        Main.rA1 of ww { (#,#) ww1 ww2 ->
+                 Relvar.Relvar ww1 ww2 }) -}
+d247c0d0e5e618ff918ece91106c912e
+  rA1 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.: @ [Relvar.Elem] Main.rA15 Main.rA2) -}
+67ed5fae2c2086378a1b0f883118a727
+  rA10 :: GHC.Types.Int
+  {- HasNoCafRefs, Unfolding: (GHC.Types.I# 20) -}
+227fbc1afd0c2e92184640ab4d83f524
+  rA11 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.rA12) -}
+32d394ba536554e2dae8a91cbb4ed83c
+  rA12 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Clark"#) -}
+1f685202d468f2e3bd3810b377efbfee
+  rA13 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.rA14) -}
+fb3b2928f05f9fb4be4c92d6805a61da
+  rA14 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "S4"#) -}
+c33b57fc8adf03e22867dcc41ab1c1d9
+  rA15 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA19 Main.rA16) -}
+1a73f2f45590ddef841f73d43fd25bfd
+  rA16 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA17 Main.rA5) -}
+024f73b8d5a2eace7bb1fb92bf6d04c6
+  rA17 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.rA18) -}
+d2be8ab8a58e271f81a412320d59e5ce
+  rA18 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Smith"#) -}
+ea5e960398f8fdf344cb9295d6783109
+  rA19 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.rA20) -}
+b4fcdaf0acb5048d07c7b2e29f5bf257
+  rA2 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.rA3
+                   (GHC.Types.[] @ [Relvar.Elem])) -}
+24bf816e80f1f9cdc957b3b91e2b4e07
+  rA20 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "S1"#) -}
+d516a4f9dd15500ec49ab30866d221d0
+  rA21 :: [Data.Typeable.Internal.TypeRep]
+  {- Unfolding: (GHC.Types.:
+                   @ Data.Typeable.Internal.TypeRep
+                   Relvar.tyS
+                   Main.rA22) -}
+500350f87e1507fcf85afe7e37dd8572
+  rA22 :: [Data.Typeable.Internal.TypeRep]
+  {- Unfolding: (GHC.Types.:
+                   @ Data.Typeable.Internal.TypeRep
+                   Relvar.tyS
+                   Main.rA23) -}
+a847b3490551e5f69f55383751da3f62
+  rA23 :: [Data.Typeable.Internal.TypeRep]
+  {- Unfolding: (GHC.Types.:
+                   @ Data.Typeable.Internal.TypeRep
+                   Relvar.tyI
+                   Main.rA24) -}
+22eb373206f9cf5e46081d6b46ab9a6d
+  rA24 :: [Data.Typeable.Internal.TypeRep]
+  {- Unfolding: (GHC.Types.:
+                   @ Data.Typeable.Internal.TypeRep
+                   Relvar.tyS
+                   (GHC.Types.[] @ Data.Typeable.Internal.TypeRep)) -}
+ead03565eec8209b84baeb0bb5445671
+  rA25 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.rA32
+                   Main.rA26) -}
+ed36f2123b5d084604d971465492600a
+  rA26 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.rA31
+                   Main.rA27) -}
+1cc15d4eda24e51f2d1eea14954667ed
+  rA27 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.rA30
+                   Main.rA28) -}
+7f6143f2bcd0bcc03d4eb5996a56830f
+  rA28 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.rA29
+                   (GHC.Types.[] @ GHC.Base.String)) -}
+aeccf73762e6cda6b27a0a117989d06f
+  rA29 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "CITY"#) -}
+e23260c08140c6628e4e562072f16ea4
+  rA3 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA13 Main.rA4) -}
+1197d048b03fc3df79942a9bf7edf44b
+  rA30 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "STATUS"#) -}
+9135186e3e3c221b61d1dd6d3949a246
+  rA31 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "SNAME"#) -}
+8c12b82d9cc43bc89380499df5a3f52c
+  rA32 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "S#"#) -}
+fdb9cd7ae541284b601d7187dc2dbf06
+  rA4 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA11 Main.rA5) -}
+538f099de02f18df46e64be2de476c02
+  rA5 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA9 Main.rA6) -}
+ee14e03cb8e4c944cd09e914a4c933e8
+  rA6 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.rA7
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+cc0121243cc901a0a1372a019e738420
+  rA7 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.rA8) -}
+46552cc55eae0a4f0523896799c1aed6
+  rA8 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "London"#) -}
+ea4297fb04834c47fdf8592ee582c6a4
+  rA9 :: Relvar.Elem
+  {- HasNoCafRefs, Unfolding: (Relvar.I Main.rA10) -}
+14d835307264f7d1264d71312dac7451
+  rB :: Relvar.Relvar
+  {- Unfolding: (case Relvar.$wrelvar
+                        Main.rA25
+                        Main.rA21
+                        Main.rB1 of ww { (#,#) ww1 ww2 ->
+                 Relvar.Relvar ww1 ww2 }) -}
+62fca711568ad1fafe84d35bcb60e1cc
+  rB1 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.: @ [Relvar.Elem] Main.rA15 Main.rB2) -}
+0ff95be71684161285df0ccb12e2c203
+  rB10 :: GHC.Types.Int
+  {- HasNoCafRefs, Unfolding: (GHC.Types.I# 10) -}
+4c9273f51d251b7a07781b8def1aeec4
+  rB11 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.rB12) -}
+2774cd46b0e53c2b463c1bb2e392eba9
+  rB12 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Jones"#) -}
+3e87d264a0d8b48cdb02bb4e0131332c
+  rB13 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.rB14) -}
+847ed67475577090a463700c6b368ff7
+  rB14 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "S2"#) -}
+307d92d7a3286da5f65f3f02db7ab774
+  rB2 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.rB3
+                   (GHC.Types.[] @ [Relvar.Elem])) -}
+d9af182cc2b01db1914206ad1441014d
+  rB3 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rB13 Main.rB4) -}
+5456472bb45b446385acdf75bf65cbdc
+  rB4 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rB11 Main.rB5) -}
+f0e127f7ba3ceddeb27b2f2a58674042
+  rB5 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rB9 Main.rB6) -}
+22a44efff438337f60d76850416f6199
+  rB6 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.rB7
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+196650ebb616c6f68f4cfbe404dfbfd5
+  rB7 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.rB8) -}
+555afb01991c227bdf3323c75519309f
+  rB8 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Paris"#) -}
+0ff611c58b4e0835845ff1dcb98b09cf
+  rB9 :: Relvar.Elem
+  {- HasNoCafRefs, Unfolding: (Relvar.I Main.rB10) -}
+756c85311002b6973aca01fe87893ee4
+  r_P :: Relvar.Relvar
+  {- Unfolding: (case Relvar.$wrelvar
+                        Main.r_P74
+                        Main.r_P70
+                        Main.r_P1 of ww { (#,#) ww1 ww2 ->
+                 Relvar.Relvar ww1 ww2 }) -}
+2630b5fdbf96f23f0fade5bb3bd639e9
+  r_P1 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.: @ [Relvar.Elem] Main.r_P62 Main.r_P2) -}
+e7adcca1e41d4365fe7f506692a4bbdc
+  r_P10 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P11 Main.rA6) -}
+498dc0cd43ad0c28405449ab483f2bfd
+  r_P11 :: Relvar.Elem
+  {- HasNoCafRefs, Unfolding: (Relvar.D Main.r_P12) -}
+7c247494668632d1ccf6b0eb2d342659
+  r_P12 :: GHC.Types.Double
+  {- HasNoCafRefs, Unfolding: (GHC.Types.D# 19.0) -}
+76c94ae8beb54f5783ca79feee77ea2a
+  r_P13 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P14) -}
+ea2d2cb845efc1acdb2d788e2a43d7bf
+  r_P14 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Red"#) -}
+ad2759281eb41eb881f1b85a70562432
+  r_P15 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P16) -}
+99247934c96359b6ff0cc38dd15afa6c
+  r_P16 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Cog"#) -}
+20f1f6c0ae1653b3f58d8ed35383b574
+  r_P17 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P18) -}
+6c2411e347875dc697288faa41e52c8b
+  r_P18 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "P6"#) -}
+89b1548d7a658e9c670a6069510fdf6a
+  r_P19 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P29 Main.r_P20) -}
+7775e3d637daf40908706bb159f524ef
+  r_P2 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.: @ [Relvar.Elem] Main.r_P52 Main.r_P3) -}
+d17317dcdad6747020fa2549473ab0d2
+  r_P20 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P27 Main.r_P21) -}
+61a3a4f70014c5d66eee0ca3d452b5ac
+  r_P21 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P25 Main.r_P22) -}
+2d302b00d96ac034ca14a584d5efe6e0
+  r_P22 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P23 Main.rB6) -}
+2306031c925005a8c707b85a6448abee
+  r_P23 :: Relvar.Elem
+  {- HasNoCafRefs, Unfolding: (Relvar.D Main.r_P24) -}
+60833c1338d9324df00c4108f1a440ad
+  r_P24 :: GHC.Types.Double
+  {- HasNoCafRefs, Unfolding: (GHC.Types.D# 12.0) -}
+2acb08c7f4f2210a728799ee22958d08
+  r_P25 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P26) -}
+c0aefa07d30110f82fc7a9cd877f9236
+  r_P26 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Blue"#) -}
+9bf1dbe40bbcb7de3ec891a6896971a5
+  r_P27 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P28) -}
+940a8bdc42a0c51bf535e13ccdf856bf
+  r_P28 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Cam"#) -}
+0b30f63735e1fe24601683d1599b2cef
+  r_P29 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P30) -}
+555b8a5e3ea20a45e2f20e321be74e4e
+  r_P3 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.: @ [Relvar.Elem] Main.r_P41 Main.r_P4) -}
+505c323f60c413467ce979b48a5a0432
+  r_P30 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "P5"#) -}
+a69665802d86734881e1733127b7af07
+  r_P31 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P39 Main.r_P32) -}
+29a7853dd4122156d07a91d7aedbe904
+  r_P32 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P37 Main.r_P33) -}
+7eeb9283bcd9c896ef72a426e822a14e
+  r_P33 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P13 Main.r_P34) -}
+fa4e804bbd799833a3856a2eea4193d6
+  r_P34 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P35 Main.rA6) -}
+88c69f0d3fc0a9e2cef6f3d4131ad978
+  r_P35 :: Relvar.Elem
+  {- HasNoCafRefs, Unfolding: (Relvar.D Main.r_P36) -}
+56bde06c8a283557cbe3c77afaa5b110
+  r_P36 :: GHC.Types.Double
+  {- HasNoCafRefs, Unfolding: (GHC.Types.D# 14.0) -}
+a4e8037026d2366b3483ef4744b7bd54
+  r_P37 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P38) -}
+1258506e8c2bbd5e91912dbaa318a413
+  r_P38 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Screw"#) -}
+92a19117680a6396cd8b757a297e9f88
+  r_P39 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P40) -}
+0bf00ecd94f3c5063275c6ce4c148783
+  r_P4 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.: @ [Relvar.Elem] Main.r_P31 Main.r_P5) -}
+8e0a55a15870bc0eeaa44af855814b68
+  r_P40 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "P4"#) -}
+157038d7ad50860d6bbd4698f0f28a30
+  r_P41 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P50 Main.r_P42) -}
+6905f51a38fc11e81e03510a403bea24
+  r_P42 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P37 Main.r_P43) -}
+df186782af2426bd5fa921b0170b4cf3
+  r_P43 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P25 Main.r_P44) -}
+165f0a8c1f30a4949281bb802a2a5d1a
+  r_P44 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P48 Main.r_P45) -}
+231ad3c1f88ae00ef4ced1a7a2d80257
+  r_P45 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_P46
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+046ee075c7e1842200ed4356a6326a7a
+  r_P46 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P47) -}
+c688d2cd99b6acba1ca6265a528f855c
+  r_P47 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Oslo"#) -}
+7e47df1cdd61545542ae17b528825127
+  r_P48 :: Relvar.Elem
+  {- HasNoCafRefs, Unfolding: (Relvar.D Main.r_P49) -}
+12a19fb9c2b152027339c7b9c4910e24
+  r_P49 :: GHC.Types.Double
+  {- HasNoCafRefs, Unfolding: (GHC.Types.D# 17.0) -}
+a97ea61e1e1d35a714354ff305adf9f4
+  r_P5 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.: @ [Relvar.Elem] Main.r_P19 Main.r_P6) -}
+3d1f1ca6d510edacfa7d23b2ca06d1dd
+  r_P50 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P51) -}
+298d4d8467e79aae4dc5c74e0a5ce903
+  r_P51 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "P3"#) -}
+e8c6aac1a4a22fd2ca0968f28ed0a04a
+  r_P52 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P60 Main.r_P53) -}
+dbd99f276b30d9dcc7cf12277cc5aac6
+  r_P53 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P58 Main.r_P54) -}
+42cffe92f7f090d84b665926b0757898
+  r_P54 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P56 Main.r_P55) -}
+33648abb3242cacf1d87bdd56a26c701
+  r_P55 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P48 Main.rB6) -}
+51ca8077d5cc895c9507557cadd891f2
+  r_P56 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P57) -}
+fdac78bdeec3bdc2599d278c1e6bbf34
+  r_P57 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Green"#) -}
+47fe9580916209ec8042c1e227355b3b
+  r_P58 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P59) -}
+99be5b766d48806cbd2be45b73e71810
+  r_P59 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Bolt"#) -}
+62fdc57dc8827499e2979ea8773c0023
+  r_P6 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_P7
+                   (GHC.Types.[] @ [Relvar.Elem])) -}
+93848f09c34a763abae213f8a2f7a0c3
+  r_P60 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P61) -}
+1740e628879aa264fe0ce807480218ef
+  r_P61 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "P2"#) -}
+a25830683874ed6d40ca1196685ace55
+  r_P62 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P68 Main.r_P63) -}
+405db4c384b6c1a78d5989aea6f36eb3
+  r_P63 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P66 Main.r_P64) -}
+79db503fb2db947abf8c34ef61bb3537
+  r_P64 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P13 Main.r_P65) -}
+bb4680343f76ef0d832a9226d6753af3
+  r_P65 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P23 Main.rA6) -}
+8fb35b730dafe81de3024a99a7587728
+  r_P66 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P67) -}
+5349acdbce54b53ee4ad1336cc5858d3
+  r_P67 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Nut"#) -}
+5ca5cd7d4acc398c5001b76f2478cb4f
+  r_P68 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_P69) -}
+b21eae0e78d3f617dc5798d7109870cd
+  r_P69 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "P1"#) -}
+7876172f26ffa125caac1c1c7defea80
+  r_P7 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P17 Main.r_P8) -}
+19376dc8fba27b93ea567bcdb78af8ce
+  r_P70 :: [Data.Typeable.Internal.TypeRep]
+  {- Unfolding: (GHC.Types.:
+                   @ Data.Typeable.Internal.TypeRep
+                   Relvar.tyS
+                   Main.r_P71) -}
+92bdc1ed4b6ef28b8159aa99e67cdb28
+  r_P71 :: [Data.Typeable.Internal.TypeRep]
+  {- Unfolding: (GHC.Types.:
+                   @ Data.Typeable.Internal.TypeRep
+                   Relvar.tyS
+                   Main.r_P72) -}
+f0a72154c4828ab43cee80de2dbcc8b5
+  r_P72 :: [Data.Typeable.Internal.TypeRep]
+  {- Unfolding: (GHC.Types.:
+                   @ Data.Typeable.Internal.TypeRep
+                   Relvar.tyS
+                   Main.r_P73) -}
+a7a209ee60d4fc880c8700481760b782
+  r_P73 :: [Data.Typeable.Internal.TypeRep]
+  {- Unfolding: (GHC.Types.:
+                   @ Data.Typeable.Internal.TypeRep
+                   Relvar.tyD
+                   Main.rA24) -}
+dd021776bf7f56943f36df864c3c3ade
+  r_P74 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.r_P81
+                   Main.r_P75) -}
+19b1424e738b9cd64f31b794bb559eb2
+  r_P75 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.r_P80
+                   Main.r_P76) -}
+b5e59c16c9aa2e25027e294db08fb900
+  r_P76 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.r_P79
+                   Main.r_P77) -}
+a959bac5076f39c6ce2c95bad338d9ba
+  r_P77 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.r_P78
+                   Main.rA28) -}
+6d050686bb62a82e8bb4f8ab26847d1d
+  r_P78 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "WEIGHT"#) -}
+4b273545018d06fce2a1af0a0dc377ab
+  r_P79 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "COLOR"#) -}
+3561615ebcca01cf56b54416ac4c2f52
+  r_P8 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P15 Main.r_P9) -}
+fe9425dd148621fad394811324b9b902
+  r_P80 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "PNAME"#) -}
+34b3459d4d2c7a4569b55ec6dd55c7a4
+  r_P81 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "P#"#) -}
+96dc1bd06541d9ad75f1916d16b87fdd
+  r_P9 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P13 Main.r_P10) -}
+d13c02a96662be65947b5da87c4f5408
+  r_S :: Relvar.Relvar
+  {- Unfolding: (case Relvar.$wrelvar
+                        Main.rA25
+                        Main.rA21
+                        Main.r_S1 of ww { (#,#) ww1 ww2 ->
+                 Relvar.Relvar ww1 ww2 }) -}
+87bc511204e5c3ce3a5563782d7b121b
+  r_S1 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.: @ [Relvar.Elem] Main.rA15 Main.r_S2) -}
+8dc62b5f10dd22ccf912d84566dc47d3
+  r_S10 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_S11) -}
+b0ffbd4bab480e42e3261ef450d00fa4
+  r_S11 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Athens"#) -}
+a296fc993d7464c94fa61e4ebb069aee
+  r_S12 :: Relvar.Elem
+  {- HasNoCafRefs, Unfolding: (Relvar.I Main.r_S13) -}
+a023a72b42b58b41dbb49800dde45167
+  r_S13 :: GHC.Types.Int
+  {- HasNoCafRefs, Unfolding: (GHC.Types.I# 30) -}
+bef88dd9871a0c4ba6987a40e63b3e8c
+  r_S14 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_S15) -}
+07a85c0a3ef099c5d48dd3ede188f1bf
+  r_S15 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Adams"#) -}
+b7489ff6ecff940c0959be7f682d5901
+  r_S16 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_S17) -}
+e9866d0bbd1c3e66adb3615b2c50b397
+  r_S17 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "S5"#) -}
+55710e2708f62a51462af364864cf365
+  r_S18 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_S23 Main.r_S19) -}
+f91c2db9397163f49e94e2092efdc065
+  r_S19 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_S21 Main.r_S20) -}
+544f3b8534316c04ec103ec6fdfaa5d2
+  r_S2 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.: @ [Relvar.Elem] Main.rB3 Main.r_S3) -}
+86f8f0d4ef8f91ce62b8bfcd6a81e75f
+  r_S20 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_S12 Main.rB6) -}
+b64065d0182c3b7a5669ef5896f4df3f
+  r_S21 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_S22) -}
+ce0584d81ea41d34de573d3401382b1f
+  r_S22 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Blake"#) -}
+6380a7df1bb470d4b9823a98ca3aad58
+  r_S23 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_S24) -}
+c31a55dc3244d92dacbc21f385dc71c3
+  r_S24 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "S3"#) -}
+e6046b57699a54400670fe15b8b141a4
+  r_S3 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.: @ [Relvar.Elem] Main.r_S18 Main.r_S4) -}
+4abcbdd76d17dabbe942031e7a2cdbbd
+  r_S4 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.: @ [Relvar.Elem] Main.rA3 Main.r_S5) -}
+a7fab93fbd4915c00afe55ea0d09043c
+  r_S5 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_S6
+                   (GHC.Types.[] @ [Relvar.Elem])) -}
+78e38cb31ff4961f36844b39530ba957
+  r_S6 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_S16 Main.r_S7) -}
+a213ad80a8e9572c4808664ea9c23ed4
+  r_S7 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_S14 Main.r_S8) -}
+0ba34ca9caa32073220ce4b2b927c599
+  r_S8 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_S12 Main.r_S9) -}
+fc6e10ecb80f2eb16d535c8098e7a186
+  r_S9 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_S10
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+c23224302c3131768e10f55b3db95c9b
+  r_SP :: Relvar.Relvar
+  {- Unfolding: (case Relvar.$wrelvar
+                        Main.r_SP49
+                        Main.r_SP46
+                        Main.r_SP1 of ww { (#,#) ww1 ww2 ->
+                 Relvar.Relvar ww1 ww2 }) -}
+8c85f78a3d2665c4460068baaff78fe1
+  r_SP1 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP45
+                   Main.r_SP2) -}
+31db946581859d07cc3e63a0975a1155
+  r_SP10 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP23
+                   Main.r_SP11) -}
+809e7183c23562093b084f062b61895b
+  r_SP11 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP18
+                   Main.r_SP12) -}
+84c29d8b27a74c6fbbd5dada534e6be0
+  r_SP12 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP13
+                   (GHC.Types.[] @ [Relvar.Elem])) -}
+0f3d64ff58fd93a9005b50081538278d
+  r_SP13 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA13 Main.r_SP14) -}
+a78b70c7f03852068ce175f5d64e0e05
+  r_SP14 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P29 Main.r_SP15) -}
+21e0a5f326550852699a76c69867173e
+  r_SP15 :: [Relvar.Elem]
+  {- HasNoCafRefs,
+     Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_SP16
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+f1f1927bebdb0ed2d7c2186f39637486
+  r_SP16 :: Relvar.Elem
+  {- HasNoCafRefs, Unfolding: (Relvar.I Main.r_SP17) -}
+f02562cca8c682328233e68491f2eff7
+  r_SP17 :: GHC.Types.Int
+  {- HasNoCafRefs, Unfolding: (GHC.Types.I# 400) -}
+8fe23e1e950a461d03077d227665f240
+  r_SP18 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA13 Main.r_SP19) -}
+82b7f87b277b81df38591d9f802d653e
+  r_SP19 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P39 Main.r_SP20) -}
+cec26fd7740e8fff6589acdfd3ba0e9b
+  r_SP2 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP44
+                   Main.r_SP3) -}
+2f19d8b8de6c0fa7fce154a077e3d8b5
+  r_SP20 :: [Relvar.Elem]
+  {- HasNoCafRefs,
+     Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_SP21
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+23c87acd22beedc16637904fb76c2070
+  r_SP21 :: Relvar.Elem
+  {- HasNoCafRefs, Unfolding: (Relvar.I Main.r_SP22) -}
+1003b21017c09c9b398c202146dd0cd9
+  r_SP22 :: GHC.Types.Int
+  {- HasNoCafRefs, Unfolding: (GHC.Types.I# 300) -}
+97df3c69f546dd87e8611c919d840410
+  r_SP23 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA13 Main.r_SP24) -}
+58f5a74cbe8bc9b0d18d70171e3a6684
+  r_SP24 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P60 Main.r_SP25) -}
+17d3da2f49a13bc90e57314abf35d0a3
+  r_SP25 :: [Relvar.Elem]
+  {- HasNoCafRefs,
+     Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_SP26
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+3401969f7afd99a960aafed7daf224bf
+  r_SP26 :: Relvar.Elem
+  {- HasNoCafRefs, Unfolding: (Relvar.I Main.r_SP27) -}
+e38bbb95256ee356e46a36ea9be32d73
+  r_SP27 :: GHC.Types.Int
+  {- HasNoCafRefs, Unfolding: (GHC.Types.I# 200) -}
+692323b662780532c40e4447e2a9c6d9
+  r_SP28 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_S23 Main.r_SP24) -}
+a29603f0ce81eced57e1e23b526d763b
+  r_SP29 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rB13 Main.r_SP30) -}
+c0928041b2f7ff210b421bdcdfd4c237
+  r_SP3 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP42
+                   Main.r_SP4) -}
+fabb61c5f149ad3989f9316a91feff2c
+  r_SP30 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P60 Main.r_SP15) -}
+ba2f510b24b67f89638c9a49abf05d50
+  r_SP31 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rB13 Main.r_SP32) -}
+e711d37989d8872156489cdf24b0e9fc
+  r_SP32 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P68 Main.r_SP20) -}
+f2f85ac12803e9c850e09c8c74ecb788
+  r_SP33 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA19 Main.r_SP34) -}
+ecdeaee87ca2d0ba32a5f90447077c66
+  r_SP34 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P17 Main.r_SP35) -}
+645f5693ddbf59a446be4be023d3091c
+  r_SP35 :: [Relvar.Elem]
+  {- HasNoCafRefs,
+     Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_SP36
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+f2c8f3caf0d449907b79790dcb977069
+  r_SP36 :: Relvar.Elem
+  {- HasNoCafRefs, Unfolding: (Relvar.I Main.r_SP37) -}
+6745d76a2e5284f57398c24bf1a94ccf
+  r_SP37 :: GHC.Types.Int
+  {- HasNoCafRefs, Unfolding: (GHC.Types.I# 100) -}
+d63864fb2c9c7f7ac03a409a006abf1e
+  r_SP38 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA19 Main.r_SP39) -}
+35fbcce661b9c5293343b82399c1a110
+  r_SP39 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P29 Main.r_SP35) -}
+4e946cc469bb23329d02dd68016b6612
+  r_SP4 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP40
+                   Main.r_SP5) -}
+26129f8a535abd0dc8e2c57b531cc075
+  r_SP40 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA19 Main.r_SP41) -}
+b3858dafc1292fd566c23b9b0a643cc9
+  r_SP41 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P39 Main.r_SP25) -}
+b39d9c19389070b042f54c46d16c70f0
+  r_SP42 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA19 Main.r_SP43) -}
+0452f620d6b886d5194d55ae286a0e00
+  r_SP43 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.r_P50 Main.r_SP15) -}
+d29ab75b80e1490124a81f3785f1bd4e
+  r_SP44 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA19 Main.r_SP24) -}
+791871c84433c44513dece14f3f3031b
+  r_SP45 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.: @ Relvar.Elem Main.rA19 Main.r_SP32) -}
+fe7aeac256adb9d16f2ff33d36308527
+  r_SP46 :: [Data.Typeable.Internal.TypeRep]
+  {- Unfolding: (GHC.Types.:
+                   @ Data.Typeable.Internal.TypeRep
+                   Relvar.tyS
+                   Main.r_SP47) -}
+c9e9ad09bf11180657a72e5a7c0f9836
+  r_SP47 :: [Data.Typeable.Internal.TypeRep]
+  {- Unfolding: (GHC.Types.:
+                   @ Data.Typeable.Internal.TypeRep
+                   Relvar.tyS
+                   Main.r_SP48) -}
+4fad4e7aa11efa783021e60b57886225
+  r_SP48 :: [Data.Typeable.Internal.TypeRep]
+  {- Unfolding: (GHC.Types.:
+                   @ Data.Typeable.Internal.TypeRep
+                   Relvar.tyI
+                   (GHC.Types.[] @ Data.Typeable.Internal.TypeRep)) -}
+5b59283f9ba6dd346d5d3038f651d7f2
+  r_SP49 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.rA32
+                   Main.r_SP50) -}
+cf1b7cbe1eb96c144d2896b3e76b4162
+  r_SP5 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP38
+                   Main.r_SP6) -}
+a1137c6657532d3215f62601e496c1c6
+  r_SP50 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.r_P81
+                   Main.r_SP51) -}
+ca4695694173866402e97d941a2ee41c
+  r_SP51 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.r_SP52
+                   (GHC.Types.[] @ GHC.Base.String)) -}
+f38d181e6c6df1ee8feedb0849134c87
+  r_SP52 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "QTY"#) -}
+2aef06f992b77ffbfcf41d1eb4de1b44
+  r_SP6 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP33
+                   Main.r_SP7) -}
+917101a4678d76c9b5d4f4819b143cec
+  r_SP7 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP31
+                   Main.r_SP8) -}
+841f797a87ab944210c4c9440667cfdc
+  r_SP8 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP29
+                   Main.r_SP9) -}
+575584942a4746c4b0801880c5b99c82
+  r_SP9 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_SP28
+                   Main.r_SP10) -}
+c0c160d20aa72d17c9293dfcc4f5b75e
+  r_prodA :: Relvar.Relvar
+  {- Unfolding: (case Relvar.$wrelvar
+                        Main.r_prodA15
+                        Main.rA24
+                        Main.r_prodA1 of ww { (#,#) ww1 ww2 ->
+                 Relvar.Relvar ww1 ww2 }) -}
+bd06cfca57e77d283990d49ccd5799ac
+  r_prodA1 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodA14
+                   Main.r_prodA2) -}
+5a5bd8bcdd7f43b864dc55ddba723500
+  r_prodA10 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_S16
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+510a226ec84d23ded3d8c08783bfe279
+  r_prodA11 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.rA13
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+b6085b68e8c16fe61ffd852914667018
+  r_prodA12 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_S23
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+91f37f3c60ce3d13f3a78e6465d721ad
+  r_prodA13 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.rB13
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+95492a38ac2c860d6601845ee6c8d931
+  r_prodA14 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.rA19
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+6e1634004d77ffa2f9de1789039d8fb2
+  r_prodA15 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.rA32
+                   (GHC.Types.[] @ GHC.Base.String)) -}
+9d16388261081af84a309358c9fd3c48
+  r_prodA2 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodA13
+                   Main.r_prodA3) -}
+20ea3681a079cd6e95b4bc6406d37bbd
+  r_prodA3 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodA12
+                   Main.r_prodA4) -}
+b2aa3c8fd4bfb820b9b9dca937c91735
+  r_prodA4 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodA11
+                   Main.r_prodA5) -}
+ab8cb3ffeb3386c8caefb0ed9db96f65
+  r_prodA5 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodA10
+                   Main.r_prodA6) -}
+a8c45c3b76c97c5c724427fea35ccee4
+  r_prodA6 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodA7
+                   (GHC.Types.[] @ [Relvar.Elem])) -}
+4cf7fae9fed5c35cbfb0a3493cece903
+  r_prodA7 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_prodA8
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+7bab8eef29a15086ec23a13ba555eb46
+  r_prodA8 :: Relvar.Elem
+  {- Unfolding: (Relvar.S Main.r_prodA9) -}
+dd906fdc24d6851c18cb57059b6e7f40
+  r_prodA9 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "S6"#) -}
+58b3b9617fd1d7855de582d368c11a6b
+  r_prodB :: Relvar.Relvar
+  {- Unfolding: (case Relvar.$wrelvar
+                        Main.r_prodB13
+                        Main.rA24
+                        Main.r_prodB1 of ww { (#,#) ww1 ww2 ->
+                 Relvar.Relvar ww1 ww2 }) -}
+bac75ab1d1525a48d788fd2ba0fe4519
+  r_prodB1 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodB12
+                   Main.r_prodB2) -}
+ad5db6abd21d01581c8f701163511724
+  r_prodB10 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_P50
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+0eed81d51831ac0b628a4590e93af5dc
+  r_prodB11 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_P60
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+e854364ae6749f64ca124cbc8f5b15c8
+  r_prodB12 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_P68
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+f713464cde1ba038aff1106f57d6156d
+  r_prodB13 :: [GHC.Base.String]
+  {- Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Main.r_P81
+                   (GHC.Types.[] @ GHC.Base.String)) -}
+1ad2be288268dbf3fc4f2a066b8ee000
+  r_prodB2 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodB11
+                   Main.r_prodB3) -}
+2f7ec5855415e5dbb217553ebd1dfa4c
+  r_prodB3 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodB10
+                   Main.r_prodB4) -}
+5fc19b8e8a2634764f626973c3d873a2
+  r_prodB4 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodB9
+                   Main.r_prodB5) -}
+43ad70e3c35e6305a838a7d947dc663d
+  r_prodB5 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodB8
+                   Main.r_prodB6) -}
+a49ba2b524d724c033c1f48687b3ef0d
+  r_prodB6 :: [[Relvar.Elem]]
+  {- Unfolding: (GHC.Types.:
+                   @ [Relvar.Elem]
+                   Main.r_prodB7
+                   (GHC.Types.[] @ [Relvar.Elem])) -}
+7d688fa08179a338b280cde9a6cd0c6f
+  r_prodB7 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_P17
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+2e1fa54c42282381053ad4d9da80d23e
+  r_prodB8 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_P29
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+af6a55c490524f9a5663e8f2a6035a6c
+  r_prodB9 :: [Relvar.Elem]
+  {- Unfolding: (GHC.Types.:
+                   @ Relvar.Elem
+                   Main.r_P39
+                   (GHC.Types.[] @ Relvar.Elem)) -}
+vectorised variables:
+vectorised tycons:
+vectorised reused tycons:
+parallel variables:
+parallel tycons:
+trusted: none
+require own pkg trusted: False
+

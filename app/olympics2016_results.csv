@@ -1,0 +1,975 @@
+SPORT;EVENT;MEDALIST;MEDAL
+Archery;Men's Individual;KU Bonchan;GOLD
+Archery;Men's Team;Republic of Korea;GOLD
+Archery;Women's Individual;CHANG Hyejin;GOLD
+Archery;Women's Team;Republic of Korea;GOLD
+Artistic Gymnastics;Men's Floor Exercise;WHITLOCK Max;GOLD
+Artistic Gymnastics;Men's Horizontal Bar;HAMBUECHEN Fabian;GOLD
+Artistic Gymnastics;Men's Individual All-Around;UCHIMURA Kohei;GOLD
+Artistic Gymnastics;Men's Parallel Bars;VERNIAIEV Oleg;GOLD
+Artistic Gymnastics;Men's Pommel Horse;WHITLOCK Max;GOLD
+Artistic Gymnastics;Men's Rings;PETROUNIAS Eleftherios;GOLD
+Artistic Gymnastics;Men's Team;Japan;GOLD
+Artistic Gymnastics;Men's Vault;RI Se Gwang;GOLD
+Artistic Gymnastics;Women's Balance Beam;WEVERS Sanne;GOLD
+Artistic Gymnastics;Women's Floor Exercise;BILES Simone;GOLD
+Artistic Gymnastics;Women's Individual All-Around;BILES Simone;GOLD
+Artistic Gymnastics;Women's Team;United States;GOLD
+Artistic Gymnastics;Women's Uneven Bars;MUSTAFINA Aliya;GOLD
+Artistic Gymnastics;Women's Vault;BILES Simone;GOLD
+Athletics;Men's 10,000m;FARAH Mohamed;GOLD
+Athletics;Men's 100m;BOLT Usain;GOLD
+Athletics;Men's 110m Hurdles;MCLEOD Omar;GOLD
+Athletics;Men's 1500m;CENTROWITZ Matthew;GOLD
+Athletics;Men's 200m;BOLT Usain;GOLD
+Athletics;Men's 20km Walk;WANG Zhen;GOLD
+Athletics;Men's 3000m Steeplechase;KIPRUTO Conseslus;GOLD
+Athletics;Men's 4 x 100m Relay;Jamaica;GOLD
+Athletics;Men's 4 x 400m Relay;United States;GOLD
+Athletics;Men's 400m;VAN NIEKERK Wayde;GOLD
+Athletics;Men's 400m Hurdles;CLEMENT Kerron;GOLD
+Athletics;Men's 5000m;FARAH Mohamed;GOLD
+Athletics;Men's 50km Walk;TOTH Matej;GOLD
+Athletics;Men's 800m;RUDISHA David Lekuta;GOLD
+Athletics;Men's Decathlon;EATON Ashton;GOLD
+Athletics;Men's Discus Throw;HARTING Christoph;GOLD
+Athletics;Men's Hammer Throw;NAZAROV Dilshod;GOLD
+Athletics;Men's High Jump;DROUIN Derek;GOLD
+Athletics;Men's Javelin Throw;ROHLER Thomas;GOLD
+Athletics;Men's Long Jump;HENDERSON Jeff;GOLD
+Athletics;Men's Marathon;KIPCHOGE Eliud;GOLD
+Athletics;Men's Pole Vault;DA SILVA Thiago Braz;GOLD
+Athletics;Men's Shot Put;CROUSER Ryan;GOLD
+Athletics;Men's Triple Jump;TAYLOR Christian;GOLD
+Athletics;Women's 10,000m;AYANA Almaz;GOLD
+Athletics;Women's 100m;THOMPSON Elaine;GOLD
+Athletics;Women's 100m Hurdles;ROLLINS Brianna;GOLD
+Athletics;Women's 1500m;KIPYEGON Faith Chepngetich;GOLD
+Athletics;Women's 200m;THOMPSON Elaine;GOLD
+Athletics;Women's 20km Walk;LIU Hong;GOLD
+Athletics;Women's 3000m Steeplechase;JEBET Ruth;GOLD
+Athletics;Women's 4 x 100m Relay;United States;GOLD
+Athletics;Women's 4 x 400m Relay;United States;GOLD
+Athletics;Women's 400m;MILLER Shaunae;GOLD
+Athletics;Women's 400m Hurdles;MUHAMMAD Dalilah;GOLD
+Athletics;Women's 5000m;CHERUIYOT Vivian Jepkemoi;GOLD
+Athletics;Women's 800m;SEMENYA Caster;GOLD
+Athletics;Women's Discus Throw;PERKOVIC Sandra;GOLD
+Athletics;Women's Hammer Throw;WLODARCZYK Anita;GOLD
+Athletics;Women's Heptathlon;THIAM Nafissatou;GOLD
+Athletics;Women's High Jump;BEITIA Ruth;GOLD
+Athletics;Women's Javelin Throw;KOLAK Sara;GOLD
+Athletics;Women's Long Jump;BARTOLETTA Tianna;GOLD
+Athletics;Women's Marathon;SUMGONG Jemima Jelagat;GOLD
+Athletics;Women's Pole Vault;STEFANIDI Ekaterini;GOLD
+Athletics;Women's Shot Put;CARTER Michelle;GOLD
+Athletics;Women's Triple Jump;IBARGUEN Caterine;GOLD
+Badminton;Men's Doubles;Zhang / Fu;GOLD
+Badminton;Men's Singles;CHEN Long;GOLD
+Badminton;Mixed Doubles;Natsir / Ahmad;GOLD
+Badminton;Women's Doubles;Takahashi / Matsutomo;GOLD
+Badminton;Women's Singles;MARIN Carolina;GOLD
+Basketball;Men;United States;GOLD
+Basketball;Women;United States;GOLD
+Beach Volleyball;Men;Cerutti / Oscar Schmidt;GOLD
+Beach Volleyball;Women;Ludwig / Walkenhorst;GOLD
+Boxing;Men's Bantam (56kg);RAMIREZ Robeisy;GOLD
+Boxing;Men's Fly (52kg);ZOIROV Shakhobidin;GOLD
+Boxing;Men's Heavy (91kg);TISHCHENKO Evgeny;GOLD
+Boxing;Men's Light (60kg);CONCEICAO Robson;GOLD
+Boxing;Men's Light Fly (46-49kg);DUSMATOV Hasanboy;GOLD
+Boxing;Men's Light Heavy (81kg);LA CRUZ Julio Cesar;GOLD
+Boxing;Men's Light Welter (64kg);GAIBNAZAROV Fazliddin;GOLD
+Boxing;Men's Middle (75kg);LOPEZ Arlen;GOLD
+Boxing;Men's Super Heavy (+91kg);YOKA Tony Victor James;GOLD
+Boxing;Men's Welter (69kg);YELEUSSINOV Daniyar;GOLD
+Boxing;Women's Fly (48-51kg);ADAMS Nicola;GOLD
+Boxing;Women's Light (57-60kg);MOSSELY Estelle;GOLD
+Boxing;Women's Middle (69-75kg);SHIELDS Claressa Maria;GOLD
+Canoe Slalom;Canoe Double (C2) Men;Skantar / Skantar;GOLD
+Canoe Slalom;Canoe Single (C1) Men;GARGAUD CHANUT Denis;GOLD
+Canoe Slalom;Kayak (K1) Men;CLARKE Joseph;GOLD
+Canoe Slalom;Kayak (K1) Women;CHOURRAUT Maialen;GOLD
+Canoe Sprint;Men's Canoe Double 1000m;Brendel / Vandrey;GOLD
+Canoe Sprint;Men's Canoe Single 1000m;BRENDEL Sebastian;GOLD
+Canoe Sprint;Men's Canoe Single 200m;CHEBAN Iurii;GOLD
+Canoe Sprint;Men's Kayak Double 1000m;Gross / Rendschmidt;GOLD
+Canoe Sprint;Men's Kayak Double 200m;Craviotto / Toro;GOLD
+Canoe Sprint;Men's Kayak Four 1000m;Germany;GOLD
+Canoe Sprint;Men's Kayak Single 1000m;WALZ Marcus;GOLD
+Canoe Sprint;Men's Kayak Single 200m;HEATH Liam;GOLD
+Canoe Sprint;Women's Kayak Double 500m;Kozak / Szabo;GOLD
+Canoe Sprint;Women's Kayak Four 500m;Hungary;GOLD
+Canoe Sprint;Women's Kayak Single 200m;CARRINGTON Lisa;GOLD
+Canoe Sprint;Women's Kayak Single 500m;KOZAK Danuta;GOLD
+Cycling BMX;Men;FIELDS Connor;GOLD
+Cycling BMX;Women;PAJON Mariana;GOLD
+Cycling Mountain Bike;Men's Cross-country;SCHURTER Nino;GOLD
+Cycling Mountain Bike;Women's Cross-country;RISSVEDS Jenny;GOLD
+Cycling Road;Men's Individual Time Trial;CANCELLARA Fabian;GOLD
+Cycling Road;Men's Road Race;VAN AVERMAET Greg;GOLD
+Cycling Road;Women's Individual Time Trial;ARMSTRONG Kristin;GOLD
+Cycling Road;Women's Road Race;VAN DER BREGGEN Anna;GOLD
+Cycling Track;Men's Keirin;KENNY Jason;GOLD
+Cycling Track;Men's Omnium;VIVIANI Elia;GOLD
+Cycling Track;Men's Sprint;KENNY Jason;GOLD
+Cycling Track;Men's Team Pursuit;Great Britain;GOLD
+Cycling Track;Men's Team Sprint;Great Britain;GOLD
+Cycling Track;Women's Keirin;LIGTLEE Elis;GOLD
+Cycling Track;Women's Omnium;TROTT Laura;GOLD
+Cycling Track;Women's Sprint;VOGEL Kristina;GOLD
+Cycling Track;Women's Team Pursuit;Great Britain;GOLD
+Cycling Track;Women's Team Sprint;Gong / Zhong;GOLD
+Diving;Men's 10m Platform;CHEN Aisen;GOLD
+Diving;Men's 3m Springboard;CAO Yuan;GOLD
+Diving;Men's Synchronised 10m Platform;Lin / Chen;GOLD
+Diving;Men's Synchronised 3m Springboard;Laugher / Mears;GOLD
+Diving;Women's 10m Platform;REN Qian;GOLD
+Diving;Women's 3m Springboard;SHI Tingmao;GOLD
+Diving;Women's Synchronised 10m Platform;Liu / Chen;GOLD
+Diving;Women's Synchronised 3m Springboard;Wu / Shi;GOLD
+Equestrian;Dressage Individual;DUJARDIN Charlotte;GOLD
+Equestrian;Dressage Team;Germany;GOLD
+Equestrian;Eventing Individual;JUNG Michael;GOLD
+Equestrian;Eventing Team;France;GOLD
+Equestrian;Jumping Individual;SKELTON Nick;GOLD
+Equestrian;Jumping Team;France;GOLD
+Fencing;Men's Épée Individual;PARK Sangyoung;GOLD
+Fencing;Men's Épée Team;France;GOLD
+Fencing;Men's Foil Individual;GAROZZO Daniele;GOLD
+Fencing;Men's Foil Team;Russian Federation;GOLD
+Fencing;Men's Sabre Individual;SZILAGYI Aron;GOLD
+Fencing;Women's Épée Individual;SZASZ Emese;GOLD
+Fencing;Women's Épée Team;Romania;GOLD
+Fencing;Women's Foil Individual;DERIGLAZOVA Inna;GOLD
+Fencing;Women's Sabre Individual;EGORIAN Yana;GOLD
+Fencing;Women's Sabre Team;Russian Federation;GOLD
+Football;Men;Brazil;GOLD
+Football;Women;Germany;GOLD
+Golf;Men's Individual Stroke Play;ROSE Justin;GOLD
+Golf;Women's Individual Stroke Play;PARK Inbee;GOLD
+Handball;Men;Denmark;GOLD
+Handball;Women;Russian Federation;GOLD
+Hockey;Men;Argentina;GOLD
+Hockey;Women;Great Britain;GOLD
+Judo;Men -100 kg;KRPALEK Lukas;GOLD
+Judo;Men -60 kg;MUDRANOV Beslan;GOLD
+Judo;Men -66 kg;BASILE Fabio;GOLD
+Judo;Men -73 kg;ONO Shohei;GOLD
+Judo;Men -81 kg;KHALMURZAEV Khasan;GOLD
+Judo;Men -90 kg;BAKER Mashu;GOLD
+Judo;Men +100 kg;RINER Teddy;GOLD
+Judo;Women -48 kg;PARETO Paula;GOLD
+Judo;Women -52 kg;KELMENDI Majlinda;GOLD
+Judo;Women -57 kg;SILVA Rafaela;GOLD
+Judo;Women -63 kg;TRSTENJAK Tina;GOLD
+Judo;Women -70 kg;TACHIMOTO Haruka;GOLD
+Judo;Women -78 kg;HARRISON Kayla;GOLD
+Judo;Women +78 kg;ANDEOL Emilie;GOLD
+Marathon Swimming;Men's 10km;WEERTMAN Ferry;GOLD
+Marathon Swimming;Women's 10km;VAN ROUWENDAAL Sharon;GOLD
+Modern Pentathlon;Men's Individual;LESUN Alexander;GOLD
+Modern Pentathlon;Women's Individual;ESPOSITO Chloe;GOLD
+Rhythmic Gymnastics;Group All-Around;Russian Federation;GOLD
+Rhythmic Gymnastics;Individual All-Around;MAMUN Margarita;GOLD
+Rowing;Lightweight Men's Double Sculls;Azou / Houin;GOLD
+Rowing;Lightweight Men's Four;Switzerland;GOLD
+Rowing;Lightweight Women's Double Sculls;Head / Paulis;GOLD
+Rowing;Men's Double Sculls;Sinkovic / Sinkovic;GOLD
+Rowing;Men's Eight;Great Britain;GOLD
+Rowing;Men's Four;Great Britain;GOLD
+Rowing;Men's Pair;Bond / Murray;GOLD
+Rowing;Men's Quadruple Sculls;Germany;GOLD
+Rowing;Men's Single Sculls;DRYSDALE Mahe;GOLD
+Rowing;Women's Double Sculls;Fularczyk-Kozlowska / Madaj;GOLD
+Rowing;Women's Eight;United States;GOLD
+Rowing;Women's Pair;Glover / Stanning;GOLD
+Rowing;Women's Quadruple Sculls;Germany;GOLD
+Rowing;Women's Single Sculls;BRENNAN Kimberley;GOLD
+Rugby Sevens;Men;Fiji;GOLD
+Rugby Sevens;Women;Australia;GOLD
+Sailing;470 Men;Fantela / Marenic;GOLD
+Sailing;470 Women;Clark / Mills;GOLD
+Sailing;49er FX Women;Kunze / Grael;GOLD
+Sailing;49er Men;Burling / Tuke;GOLD
+Sailing;Finn Men;SCOTT Giles;GOLD
+Sailing;Laser Men;BURTON Tom;GOLD
+Sailing;Laser Radial Women;BOUWMEESTER Marit;GOLD
+Sailing;Nacra 17 Mixed;Lange / Carranza Saroli;GOLD
+Sailing;RS:X Men;VAN RIJSSELBERGHE Dorian;GOLD
+Sailing;RS:X Women;PICON Charline;GOLD
+Shooting;10m Air Pistol Men;HOANG Xuan Vinh;GOLD
+Shooting;10m Air Pistol Women;ZHANG Mengxue;GOLD
+Shooting;10m Air Rifle Men;CAMPRIANI Niccolo;GOLD
+Shooting;10m Air Rifle Women;THRASHER Virginia;GOLD
+Shooting;25m Pistol Women;KORAKAKI Anna;GOLD
+Shooting;25m Rapid Fire Pistol Men;REITZ Christian;GOLD
+Shooting;50m Pistol Men;JIN Jongoh;GOLD
+Shooting;50m Rifle 3 Positions Men;CAMPRIANI Niccolo;GOLD
+Shooting;50m Rifle 3 Positions Women;ENGLEDER Barbara;GOLD
+Shooting;50m Rifle Prone Men;JUNGHAENEL Henri;GOLD
+Shooting;Double Trap Men;ALDEEHANI Fehaid;GOLD
+Shooting;Skeet Men;ROSSETTI Gabriele;GOLD
+Shooting;Skeet Women;BACOSI Diana;GOLD
+Shooting;Trap Men;GLASNOVIC Josip;GOLD
+Shooting;Trap Women;SKINNER Catherine;GOLD
+Swimming;Men's 100m Backstroke;MURPHY Ryan;GOLD
+Swimming;Men's 100m Breaststroke;PEATY Adam;GOLD
+Swimming;Men's 100m Butterfly;SCHOOLING Joseph;GOLD
+Swimming;Men's 100m Freestyle;CHALMERS Kyle;GOLD
+Swimming;Men's 1500m Freestyle;PALTRINIERI Gregorio;GOLD
+Swimming;Men's 200m Backstroke;MURPHY Ryan;GOLD
+Swimming;Men's 200m Breaststroke;BALANDIN Dmitriy;GOLD
+Swimming;Men's 200m Butterfly;PHELPS Michael;GOLD
+Swimming;Men's 200m Freestyle;SUN Yang;GOLD
+Swimming;Men's 200m Individual Medley;PHELPS Michael;GOLD
+Swimming;Men's 4 x 100m Freestyle Relay;United States;GOLD
+Swimming;Men's 4 x 100m Medley Relay;United States;GOLD
+Swimming;Men's 4 x 200m Freestyle Relay;United States;GOLD
+Swimming;Men's 400m Freestyle;HORTON Mack;GOLD
+Swimming;Men's 400m Individual Medley;HAGINO Kosuke;GOLD
+Swimming;Men's 50m Freestyle;ERVIN Anthony;GOLD
+Swimming;Women's 100m Backstroke;HOSSZU Katinka;GOLD
+Swimming;Women's 100m Breaststroke;KING Lilly;GOLD
+Swimming;Women's 100m Butterfly;SJOSTROM Sarah;GOLD
+Swimming;Women's 100m Freestyle;OLEKSIAK Penny;GOLD
+Swimming;Women's 100m Freestyle;MANUEL Simone;GOLD
+Swimming;Women's 200m Backstroke;DIRADO Madeline;GOLD
+Swimming;Women's 200m Breaststroke;KANETO Rie;GOLD
+Swimming;Women's 200m Butterfly;BELMONTE GARCIA Mireia;GOLD
+Swimming;Women's 200m Freestyle;LEDECKY Katie;GOLD
+Swimming;Women's 200m Individual Medley;HOSSZU Katinka;GOLD
+Swimming;Women's 4 x 100m Freestyle Relay;Australia;GOLD
+Swimming;Women's 4 x 100m Medley Relay;United States;GOLD
+Swimming;Women's 4 x 200m Freestyle Relay;United States;GOLD
+Swimming;Women's 400m Freestyle;LEDECKY Katie;GOLD
+Swimming;Women's 400m Individual Medley;HOSSZU Katinka;GOLD
+Swimming;Women's 50m Freestyle;BLUME Pernille;GOLD
+Swimming;Women's 800m Freestyle;LEDECKY Katie;GOLD
+Synchronised Swimming;Duets;Ishchenko / Romashina;GOLD
+Synchronised Swimming;Teams;Russian Federation;GOLD
+Table Tennis;Men's Singles;MA Long;GOLD
+Table Tennis;Men's Team;China;GOLD
+Table Tennis;Women's Singles;DING Ning;GOLD
+Table Tennis;Women's Team;China;GOLD
+Taekwondo;Men -58kg;ZHAO Shuai;GOLD
+Taekwondo;Men -68kg;ABUGHAUSH Ahmad;GOLD
+Taekwondo;Men -80kg;CISSE Cheick Sallah Junior;GOLD
+Taekwondo;Men +80kg;ISAEV Radik;GOLD
+Taekwondo;Women -49kg;KIM Sohui;GOLD
+Taekwondo;Women -57kg;JONES Jade;GOLD
+Taekwondo;Women -67kg;OH Hyeri;GOLD
+Taekwondo;Women +67kg;ZHENG Shuyin;GOLD
+Tennis;Men's Doubles;Lopez / Nadal;GOLD
+Tennis;Men's Singles;MURRAY Andy;GOLD
+Tennis;Mixed Doubles;Sock / Mattek-Sands;GOLD
+Tennis;Women's Doubles;Makarova / Vesnina;GOLD
+Tennis;Women's Singles;PUIG Monica;GOLD
+Trampoline Gymnastics;Men;HANCHAROU Uladzislau;GOLD
+Trampoline Gymnastics;Women;MACLENNAN Rosannagh;GOLD
+Triathlon;Men;BROWNLEE Alistair;GOLD
+Triathlon;Women;JORGENSEN Gwen;GOLD
+Volleyball;Men;Brazil;GOLD
+Volleyball;Women;China;GOLD
+Water Polo;Men;Serbia;GOLD
+Water Polo;Women;United States;GOLD
+Weightlifting;Men's +105kg;TALAKHADZE Lasha;GOLD
+Weightlifting;Men's 105kg;NURUDINOV Ruslan;GOLD
+Weightlifting;Men's 56kg;LONG Qingquan;GOLD
+Weightlifting;Men's 62kg;FIGUEROA MOSQUERA Oscar Albeiro;GOLD
+Weightlifting;Men's 69kg;SHI Zhiyong;GOLD
+Weightlifting;Men's 77kg;RAHIMOV Nijat;GOLD
+Weightlifting;Men's 85kg;ROSTAMI Kianoush;GOLD
+Weightlifting;Men's 94kg;MORADI Sohrab;GOLD
+Weightlifting;Women's +75kg;MENG Suping;GOLD
+Weightlifting;Women's 48kg;TANASAN Sopita;GOLD
+Weightlifting;Women's 53kg;HSU Shu-Ching;GOLD
+Weightlifting;Women's 58kg;SRISURAT Sukanya;GOLD
+Weightlifting;Women's 63kg;DENG Wei;GOLD
+Weightlifting;Women's 69kg;XIANG Yanmei;GOLD
+Weightlifting;Women's 75kg;RIM Jong Sim;GOLD
+Wrestling;Men's Freestyle 125 kg;AKGUL Taha;GOLD
+Wrestling;Men's Freestyle 57 kg;KHINCHEGASHVILI Vladimer;GOLD
+Wrestling;Men's Freestyle 65 kg;RAMONOV Soslan;GOLD
+Wrestling;Men's Freestyle 74 kg;YAZDANICHARATI Hassan Aliazam;GOLD
+Wrestling;Men's Freestyle 86 kg;SADULAEV Abdulrashid;GOLD
+Wrestling;Men's Freestyle 97 kg;SNYDER Kyle Frederick;GOLD
+Wrestling;Men's Greco-Roman 130 kg;LOPEZ NUNEZ Mijain;GOLD
+Wrestling;Men's Greco-Roman 59 kg;BORRERO MOLINA Ismael;GOLD
+Wrestling;Men's Greco-Roman 66 kg;STEFANEK Davor;GOLD
+Wrestling;Men's Greco-Roman 75 kg;VLASOV Roman;GOLD
+Wrestling;Men's Greco-Roman 85 kg;CHAKVETADZE Davit;GOLD
+Wrestling;Men's Greco-Roman 98 kg;ALEKSANYAN Artur;GOLD
+Wrestling;Women's Freestyle 48 kg;TOSAKA Eri;GOLD
+Wrestling;Women's Freestyle 53 kg;MAROULIS Helen Louise;GOLD
+Wrestling;Women's Freestyle 58 kg;ICHO Kaori;GOLD
+Wrestling;Women's Freestyle 63 kg;KAWAI Risako;GOLD
+Wrestling;Women's Freestyle 69 kg;DOSHO Sara;GOLD
+Wrestling;Women's Freestyle 75 kg;WIEBE Erica Elizabeth;GOLD
+Archery;Men's Individual;VALLADONT Jean-Charles;SILVER
+Archery;Men's Team;United States;SILVER
+Archery;Women's Individual;UNRUH Lisa;SILVER
+Archery;Women's Team;Russian Federation;SILVER
+Artistic Gymnastics;Men's Floor Exercise;HYPOLITO Diego;SILVER
+Artistic Gymnastics;Men's Horizontal Bar;LEYVA Danell;SILVER
+Artistic Gymnastics;Men's Individual All-Around;VERNIAIEV Oleg;SILVER
+Artistic Gymnastics;Men's Parallel Bars;LEYVA Danell;SILVER
+Artistic Gymnastics;Men's Pommel Horse;SMITH Louis;SILVER
+Artistic Gymnastics;Men's Rings;ZANETTI Arthur;SILVER
+Artistic Gymnastics;Men's Team;Russian Federation;SILVER
+Artistic Gymnastics;Men's Vault;ABLIAZIN Denis;SILVER
+Artistic Gymnastics;Women's Balance Beam;HERNANDEZ Lauren;SILVER
+Artistic Gymnastics;Women's Floor Exercise;RAISMAN Alexandra;SILVER
+Artistic Gymnastics;Women's Individual All-Around;RAISMAN Alexandra;SILVER
+Artistic Gymnastics;Women's Team;Russian Federation;SILVER
+Artistic Gymnastics;Women's Uneven Bars;KOCIAN Madison;SILVER
+Artistic Gymnastics;Women's Vault;PASEKA Maria;SILVER
+Athletics;Men's 10,000m;TANUI Paul Kipngetich;SILVER
+Athletics;Men's 100m;GATLIN Justin;SILVER
+Athletics;Men's 110m Hurdles;ORTEGA Orlando;SILVER
+Athletics;Men's 1500m;MAKHLOUFI Taoufik;SILVER
+Athletics;Men's 200m;DE GRASSE Andre;SILVER
+Athletics;Men's 20km Walk;CAI Zelin;SILVER
+Athletics;Men's 3000m Steeplechase;JAGER Evan;SILVER
+Athletics;Men's 4 x 100m Relay;Japan;SILVER
+Athletics;Men's 4 x 400m Relay;Jamaica;SILVER
+Athletics;Men's 400m;JAMES Kirani;SILVER
+Athletics;Men's 400m Hurdles;TUMUTI Boniface Mucheru;SILVER
+Athletics;Men's 5000m;CHELIMO Paul Kipkemoi;SILVER
+Athletics;Men's 50km Walk;TALLENT Jared;SILVER
+Athletics;Men's 800m;MAKHLOUFI Taoufik;SILVER
+Athletics;Men's Decathlon;MAYER Kevin;SILVER
+Athletics;Men's Discus Throw;MALACHOWSKI Piotr;SILVER
+Athletics;Men's Hammer Throw;TSIKHAN Ivan;SILVER
+Athletics;Men's High Jump;BARSHIM Mutaz Essa;SILVER
+Athletics;Men's Javelin Throw;YEGO Julius;SILVER
+Athletics;Men's Long Jump;MANYONGA Luvo;SILVER
+Athletics;Men's Marathon;LILESA Feyisa;SILVER
+Athletics;Men's Pole Vault;LAVILLENIE Renaud;SILVER
+Athletics;Men's Shot Put;KOVACS Joe;SILVER
+Athletics;Men's Triple Jump;CLAYE Will;SILVER
+Athletics;Women's 10,000m;CHERUIYOT Vivian Jepkemoi;SILVER
+Athletics;Women's 100m;BOWIE Tori;SILVER
+Athletics;Women's 100m Hurdles;ALI Nia;SILVER
+Athletics;Women's 1500m;DIBABA Genzebe;SILVER
+Athletics;Women's 200m;SCHIPPERS Dafne;SILVER
+Athletics;Women's 20km Walk;GONZALEZ Maria Guadalupe;SILVER
+Athletics;Women's 3000m Steeplechase;JEPKEMOI Hyvin Kiyeng;SILVER
+Athletics;Women's 4 x 100m Relay;Jamaica;SILVER
+Athletics;Women's 4 x 400m Relay;Jamaica;SILVER
+Athletics;Women's 400m;FELIX Allyson;SILVER
+Athletics;Women's 400m Hurdles;PETERSEN Sara Slott;SILVER
+Athletics;Women's 5000m;OBIRI Hellen Onsando;SILVER
+Athletics;Women's 800m;NIYONSABA Francine;SILVER
+Athletics;Women's Discus Throw;ROBERT-MICHON Melina;SILVER
+Athletics;Women's Hammer Throw;ZHANG Wenxiu;SILVER
+Athletics;Women's Heptathlon;ENNIS-HILL Jessica;SILVER
+Athletics;Women's High Jump;DEMIREVA Mirela;SILVER
+Athletics;Women's Javelin Throw;VILJOEN Sunette;SILVER
+Athletics;Women's Long Jump;REESE Brittney;SILVER
+Athletics;Women's Marathon;KIRWA Eunice Jepkirui;SILVER
+Athletics;Women's Pole Vault;MORRIS Sandi;SILVER
+Athletics;Women's Shot Put;ADAMS Valerie;SILVER
+Athletics;Women's Triple Jump;ROJAS Yulimar;SILVER
+Badminton;Men's Doubles;Goh / Tan;SILVER
+Badminton;Men's Singles;LEE Chong Wei;SILVER
+Badminton;Mixed Doubles;Chan / Goh;SILVER
+Badminton;Women's Doubles;Rytter juhl / Pedersen;SILVER
+Badminton;Women's Singles;PUSARLA V. Sindhu;SILVER
+Basketball;Men;Serbia;SILVER
+Basketball;Women;Spain;SILVER
+Beach Volleyball;Men;Nicolai / Lupo;SILVER
+Beach Volleyball;Women;Bednarczuk / Seixas de Freitas;SILVER
+Boxing;Men's Bantam (56kg);STEVENSON Shakur;SILVER
+Boxing;Men's Fly (52kg);ALOIAN Misha;SILVER
+Boxing;Men's Heavy (91kg);LEVIT Vassiliy;SILVER
+Boxing;Men's Light (60kg);OUMIHA Sofiane;SILVER
+Boxing;Men's Light Fly (46-49kg);MARTINEZ Yurberjen Herney;SILVER
+Boxing;Men's Light Heavy (81kg);NIYAZYMBETOV Adilbek;SILVER
+Boxing;Men's Light Welter (64kg);SOTOMAYOR COLLAZO Lorenzo;SILVER
+Boxing;Men's Middle (75kg);MELIKUZIEV Bektemir;SILVER
+Boxing;Men's Super Heavy (+91kg);JOYCE Joe;SILVER
+Boxing;Men's Welter (69kg);GIYASOV Shakhram;SILVER
+Boxing;Women's Fly (48-51kg);OURAHMOUNE Sarah;SILVER
+Boxing;Women's Light (57-60kg);YIN Junhua;SILVER
+Boxing;Women's Middle (69-75kg);FONTIJN Nouchka;SILVER
+Canoe Slalom;Canoe Double (C2) Men;Florence / Hounslow;SILVER
+Canoe Slalom;Canoe Single (C1) Men;BENUS Matej;SILVER
+Canoe Slalom;Kayak (K1) Men;KAUZER Peter;SILVER
+Canoe Slalom;Kayak (K1) Women;JONES Luuka;SILVER
+Canoe Sprint;Men's Canoe Double 1000m;de Souza Silva / Queiroz dos Santos;SILVER
+Canoe Sprint;Men's Canoe Single 1000m;QUEIROZ DOS SANTOS Isaquias;SILVER
+Canoe Sprint;Men's Canoe Single 200m;DEMYANENKO Valentin;SILVER
+Canoe Sprint;Men's Kayak Double 1000m;Tomicevic / Zoric;SILVER
+Canoe Sprint;Men's Kayak Double 200m;Heath / Schofield;SILVER
+Canoe Sprint;Men's Kayak Four 1000m;Slovakia;SILVER
+Canoe Sprint;Men's Kayak Single 1000m;DOSTAL Josef;SILVER
+Canoe Sprint;Men's Kayak Single 200m;BEAUMONT Maxime;SILVER
+Canoe Sprint;Women's Kayak Double 500m;Dietze / Weber;SILVER
+Canoe Sprint;Women's Kayak Four 500m;Germany;SILVER
+Canoe Sprint;Women's Kayak Single 200m;WALCZYKIEWICZ Marta;SILVER
+Canoe Sprint;Women's Kayak Single 500m;JORGENSEN Emma;SILVER
+Cycling BMX;Men;VAN GORKOM Jelle;SILVER
+Cycling BMX;Women;POST Alise;SILVER
+Cycling Mountain Bike;Men's Cross-country;KULHAVY Jaroslav;SILVER
+Cycling Mountain Bike;Women's Cross-country;WLOSZCZOWSKA Maja;SILVER
+Cycling Road;Men's Individual Time Trial;DUMOULIN Tom;SILVER
+Cycling Road;Men's Road Race;FUGLSANG Jakob;SILVER
+Cycling Road;Women's Individual Time Trial;ZABELINSKAYA Olga;SILVER
+Cycling Road;Women's Road Race;JOHANSSON Emma;SILVER
+Cycling Track;Men's Keirin;BUCHLI Matthijs;SILVER
+Cycling Track;Men's Omnium;CAVENDISH Mark;SILVER
+Cycling Track;Men's Sprint;SKINNER Callum;SILVER
+Cycling Track;Men's Team Pursuit;Australia;SILVER
+Cycling Track;Men's Team Sprint;New Zealand;SILVER
+Cycling Track;Women's Keirin;JAMES Rebecca;SILVER
+Cycling Track;Women's Omnium;HAMMER Sarah;SILVER
+Cycling Track;Women's Sprint;JAMES Rebecca;SILVER
+Cycling Track;Women's Team Pursuit;United States;SILVER
+Cycling Track;Women's Team Sprint;Voinova / Shmeleva;SILVER
+Diving;Men's 10m Platform;SANCHEZ German;SILVER
+Diving;Men's 3m Springboard;LAUGHER Jack;SILVER
+Diving;Men's Synchronised 10m Platform;Boudia / Johnson;SILVER
+Diving;Men's Synchronised 3m Springboard;Dorman / Hixon;SILVER
+Diving;Women's 10m Platform;SI Yajie;SILVER
+Diving;Women's 3m Springboard;HE Zi;SILVER
+Diving;Women's Synchronised 10m Platform;Cheong / Pamg;SILVER
+Diving;Women's Synchronised 3m Springboard;Cagnotto / Dallape';SILVER
+Equestrian;Dressage Individual;WERTH Isabell;SILVER
+Equestrian;Dressage Team;Great Britain;SILVER
+Equestrian;Eventing Individual;NICOLAS Astier;SILVER
+Equestrian;Eventing Team;Germany;SILVER
+Equestrian;Jumping Individual;FREDRICSON Peder;SILVER
+Equestrian;Jumping Team;United States;SILVER
+Fencing;Men's Épée Individual;IMRE Geza;SILVER
+Fencing;Men's Épée Team;Italy;SILVER
+Fencing;Men's Foil Individual;MASSIALAS Alexander;SILVER
+Fencing;Men's Foil Team;France;SILVER
+Fencing;Men's Sabre Individual;HOMER Daryl;SILVER
+Fencing;Women's Épée Individual;FIAMINGO Rossella;SILVER
+Fencing;Women's Épée Team;China;SILVER
+Fencing;Women's Foil Individual;DI FRANCISCA Elisa;SILVER
+Fencing;Women's Sabre Individual;VELIKAYA Sofya;SILVER
+Fencing;Women's Sabre Team;Ukraine;SILVER
+Football;Men;Germany;SILVER
+Football;Women;Sweden;SILVER
+Golf;Men's Individual Stroke Play;STENSON Henrik;SILVER
+Golf;Women's Individual Stroke Play;KO Lydia;SILVER
+Handball;Men;France;SILVER
+Handball;Women;France;SILVER
+Hockey;Men;Belgium;SILVER
+Hockey;Women;Netherlands;SILVER
+Judo;Men -100 kg;GASIMOV Elmar;SILVER
+Judo;Men -60 kg;SMETOV Yeldos;SILVER
+Judo;Men -66 kg;AN Baul;SILVER
+Judo;Men -73 kg;ORUJOV Rustam;SILVER
+Judo;Men -81 kg;STEVENS Travis;SILVER
+Judo;Men -90 kg;LIPARTELIANI Varlam;SILVER
+Judo;Men +100 kg;HARASAWA Hisayoshi;SILVER
+Judo;Women -48 kg;JEONG Bokyeong;SILVER
+Judo;Women -52 kg;GIUFFRIDA Odette;SILVER
+Judo;Women -57 kg;DORJSUREN Sumiya;SILVER
+Judo;Women -63 kg;AGBEGNENOU Clarisse;SILVER
+Judo;Women -70 kg;ALVEAR Yuri;SILVER
+Judo;Women -78 kg;TCHEUMEO Audrey;SILVER
+Judo;Women +78 kg;ORTIZ Idalys;SILVER
+Marathon Swimming;Men's 10km;GIANNIOTIS Spiros;SILVER
+Marathon Swimming;Women's 10km;BRUNI Rachele;SILVER
+Modern Pentathlon;Men's Individual;TYMOSHCHENKO Pavlo;SILVER
+Modern Pentathlon;Women's Individual;CLOUVEL Elodie;SILVER
+Rhythmic Gymnastics;Group All-Around;Spain;SILVER
+Rhythmic Gymnastics;Individual All-Around;KUDRYAVTSEVA Yana;SILVER
+Rowing;Lightweight Men's Double Sculls;O'Donovan / O'Donovan;SILVER
+Rowing;Lightweight Men's Four;Denmark;SILVER
+Rowing;Lightweight Women's Double Sculls;Jennerich / Obee;SILVER
+Rowing;Men's Double Sculls;Griskonis / Ritter;SILVER
+Rowing;Men's Eight;Germany;SILVER
+Rowing;Men's Four;Australia;SILVER
+Rowing;Men's Pair;Keeling / Brittain;SILVER
+Rowing;Men's Quadruple Sculls;Australia;SILVER
+Rowing;Men's Single Sculls;MARTIN Damir;SILVER
+Rowing;Women's Double Sculls;Grainger / Thornley;SILVER
+Rowing;Women's Eight;Great Britain;SILVER
+Rowing;Women's Pair;Behrent / Scown;SILVER
+Rowing;Women's Quadruple Sculls;Netherlands;SILVER
+Rowing;Women's Single Sculls;STONE Genevra;SILVER
+Rugby Sevens;Men;Great Britain;SILVER
+Rugby Sevens;Women;New Zealand;SILVER
+Sailing;470 Men;Belcher / Ryan;SILVER
+Sailing;470 Women;Aleh / Powrie;SILVER
+Sailing;49er FX Women;Maloney / Meech;SILVER
+Sailing;49er Men;Outteridge / Jensen;SILVER
+Sailing;Finn Men;ZBOGAR Vasilij;SILVER
+Sailing;Laser Men;STIPANOVIC Tonci;SILVER
+Sailing;Laser Radial Women;MURPHY Annalise;SILVER
+Sailing;Nacra 17 Mixed;Darmanin / Waterhouse;SILVER
+Sailing;RS:X Men;DEMPSEY Nick;SILVER
+Sailing;RS:X Women;CHEN Peina;SILVER
+Shooting;10m Air Pistol Men;WU Felipe Almeida;SILVER
+Shooting;10m Air Pistol Women;BATSARASHKINA Vitalina;SILVER
+Shooting;10m Air Rifle Men;KULISH Serhiy;SILVER
+Shooting;10m Air Rifle Women;DU Li;SILVER
+Shooting;25m Pistol Women;KARSCH Monika;SILVER
+Shooting;25m Rapid Fire Pistol Men;QUIQUAMPOIX Jean;SILVER
+Shooting;50m Pistol Men;HOANG Xuan Vinh;SILVER
+Shooting;50m Rifle 3 Positions Men;KAMENSKIY Sergey;SILVER
+Shooting;50m Rifle 3 Positions Women;ZHANG Binbin;SILVER
+Shooting;50m Rifle Prone Men;KIM Jonghyun;SILVER
+Shooting;Double Trap Men;INNOCENTI Marco;SILVER
+Shooting;Skeet Men;SVENSSON Marcus;SILVER
+Shooting;Skeet Women;CAINERO Chiara;SILVER
+Shooting;Trap Men;PELLIELO Giovanni;SILVER
+Shooting;Trap Women;ROONEY Natalie;SILVER
+Swimming;Men's 100m Backstroke;XU Jiayu;SILVER
+Swimming;Men's 100m Breaststroke;VAN DER BURGH Cameron;SILVER
+Swimming;Men's 100m Butterfly;PHELPS Michael;SILVER
+Swimming;Men's 100m Butterfly;CSEH Laszlo;SILVER
+Swimming;Men's 100m Butterfly;LE CLOS Chad Guy Bertrand;SILVER
+Swimming;Men's 100m Freestyle;TIMMERS Pieter;SILVER
+Swimming;Men's 1500m Freestyle;JAEGER Connor;SILVER
+Swimming;Men's 200m Backstroke;LARKIN Mitchell;SILVER
+Swimming;Men's 200m Breaststroke;PRENOT Josh;SILVER
+Swimming;Men's 200m Butterfly;SAKAI Masato;SILVER
+Swimming;Men's 200m Freestyle;LE CLOS Chad Guy Bertrand;SILVER
+Swimming;Men's 200m Individual Medley;HAGINO Kosuke;SILVER
+Swimming;Men's 4 x 100m Freestyle Relay;France;SILVER
+Swimming;Men's 4 x 100m Medley Relay;Great Britain;SILVER
+Swimming;Men's 4 x 200m Freestyle Relay;Great Britain;SILVER
+Swimming;Men's 400m Freestyle;SUN Yang;SILVER
+Swimming;Men's 400m Individual Medley;KALISZ Chase;SILVER
+Swimming;Men's 50m Freestyle;MANAUDOU Florent;SILVER
+Swimming;Women's 100m Backstroke;BAKER Kathleen;SILVER
+Swimming;Women's 100m Breaststroke;EFIMOVA Yulia;SILVER
+Swimming;Women's 100m Butterfly;OLEKSIAK Penny;SILVER
+Swimming;Women's 200m Backstroke;HOSSZU Katinka;SILVER
+Swimming;Women's 200m Breaststroke;EFIMOVA Yulia;SILVER
+Swimming;Women's 200m Butterfly;GROVES Madeline;SILVER
+Swimming;Women's 200m Freestyle;SJOSTROM Sarah;SILVER
+Swimming;Women's 200m Individual Medley;O'CONNOR Siobhan-Marie;SILVER
+Swimming;Women's 4 x 100m Freestyle Relay;United States;SILVER
+Swimming;Women's 4 x 100m Medley Relay;Australia;SILVER
+Swimming;Women's 4 x 200m Freestyle Relay;Australia;SILVER
+Swimming;Women's 400m Freestyle;CARLIN Jazz;SILVER
+Swimming;Women's 400m Individual Medley;DIRADO Madeline;SILVER
+Swimming;Women's 50m Freestyle;MANUEL Simone;SILVER
+Swimming;Women's 800m Freestyle;CARLIN Jazz;SILVER
+Synchronised Swimming;Duets;Huang / Sun;SILVER
+Synchronised Swimming;Teams;China;SILVER
+Table Tennis;Men's Singles;ZHANG Jike;SILVER
+Table Tennis;Men's Team;Japan;SILVER
+Table Tennis;Women's Singles;LI Xiaoxia;SILVER
+Table Tennis;Women's Team;Germany;SILVER
+Taekwondo;Men -58kg;HANPRAB Tawin;SILVER
+Taekwondo;Men -68kg;DENISENKO Alexey;SILVER
+Taekwondo;Men -80kg;MUHAMMAD Lutalo;SILVER
+Taekwondo;Men +80kg;ISSOUFOU ALFAGA Abdoulrazak;SILVER
+Taekwondo;Women -49kg;BOGDANOVIC Tijana;SILVER
+Taekwondo;Women -57kg;CALVO GOMEZ Eva;SILVER
+Taekwondo;Women -67kg;NIARE Haby;SILVER
+Taekwondo;Women +67kg;ESPINOZA ESPINOZA Maria del Rosario;SILVER
+Tennis;Men's Doubles;Mergea / Tecau;SILVER
+Tennis;Men's Singles;DEL POTRO Juan Martin;SILVER
+Tennis;Mixed Doubles;Williams / Ram;SILVER
+Tennis;Women's Doubles;Bacsinszky / Hingis;SILVER
+Tennis;Women's Singles;KERBER Angelique;SILVER
+Trampoline Gymnastics;Men;DONG Dong;SILVER
+Trampoline Gymnastics;Women;PAGE Bryony;SILVER
+Triathlon;Men;BROWNLEE Jonathan;SILVER
+Triathlon;Women;SPIRIG HUG Nicola;SILVER
+Volleyball;Men;Italy;SILVER
+Volleyball;Women;Serbia;SILVER
+Water Polo;Men;Croatia;SILVER
+Water Polo;Women;Italy;SILVER
+Weightlifting;Men's +105kg;MINASYAN Gor;SILVER
+Weightlifting;Men's 105kg;MARTIROSYAN Simon;SILVER
+Weightlifting;Men's 56kg;OM Yun Chol;SILVER
+Weightlifting;Men's 62kg;IRAWAN Eko Yuli;SILVER
+Weightlifting;Men's 69kg;ISMAYILOV Daniyar;SILVER
+Weightlifting;Men's 77kg;LYU Xiaojun;SILVER
+Weightlifting;Men's 85kg;TIAN Tao;SILVER
+Weightlifting;Men's 94kg;STRALTSOU Vadzim;SILVER
+Weightlifting;Women's +75kg;KIM Kuk Hyang;SILVER
+Weightlifting;Women's 48kg;AGUSTIANI Sri Wahyuni;SILVER
+Weightlifting;Women's 53kg;DIAZ Hidilyn;SILVER
+Weightlifting;Women's 58kg;SIRIKAEW Pimsiri;SILVER
+Weightlifting;Women's 63kg;CHOE Hyo Sim;SILVER
+Weightlifting;Women's 69kg;ZHAPPARKUL Zhazira;SILVER
+Weightlifting;Women's 75kg;NAUMAVA Darya;SILVER
+Wrestling;Men's Freestyle 125 kg;GHASEMI Komeil Nemat;SILVER
+Wrestling;Men's Freestyle 57 kg;HIGUCHI Rei;SILVER
+Wrestling;Men's Freestyle 65 kg;ASGAROV Toghrul;SILVER
+Wrestling;Men's Freestyle 74 kg;GEDUEV Aniuar;SILVER
+Wrestling;Men's Freestyle 86 kg;YASAR Selim;SILVER
+Wrestling;Men's Freestyle 97 kg;GOZIUMOV Khetag;SILVER
+Wrestling;Men's Greco-Roman 130 kg;KAYAALP Riza;SILVER
+Wrestling;Men's Greco-Roman 59 kg;OTA Shinobu;SILVER
+Wrestling;Men's Greco-Roman 66 kg;ARUTYUNYAN Migran;SILVER
+Wrestling;Men's Greco-Roman 75 kg;MADSEN Mark Overgaard;SILVER
+Wrestling;Men's Greco-Roman 85 kg;BELENIUK Zhan;SILVER
+Wrestling;Men's Greco-Roman 98 kg;LUGO CABRERA Yasmany Daniel;SILVER
+Wrestling;Women's Freestyle 48 kg;STADNIK Mariya;SILVER
+Wrestling;Women's Freestyle 53 kg;YOSHIDA Saori;SILVER
+Wrestling;Women's Freestyle 58 kg;KOBLOVA ZHOLOBOVA Valeriia;SILVER
+Wrestling;Women's Freestyle 63 kg;MAMASHUK Maryia;SILVER
+Wrestling;Women's Freestyle 69 kg;VOROBEVA Natalia;SILVER
+Wrestling;Women's Freestyle 75 kg;MANYUROVA Guzel;SILVER
+Archery;Men's Individual;ELLISON Brady;BRONZE
+Archery;Men's Team;Australia;BRONZE
+Archery;Women's Individual;KI Bobae;BRONZE
+Archery;Women's Team;Taipei (Cn Taipei);BRONZE
+Artistic Gymnastics;Men's Floor Exercise;MARIANO Arthur;BRONZE
+Artistic Gymnastics;Men's Horizontal Bar;WILSON Nile;BRONZE
+Artistic Gymnastics;Men's Individual All-Around;WHITLOCK Max;BRONZE
+Artistic Gymnastics;Men's Parallel Bars;BELYAVSKIY David;BRONZE
+Artistic Gymnastics;Men's Pommel Horse;NADDOUR Alexander;BRONZE
+Artistic Gymnastics;Men's Rings;ABLIAZIN Denis;BRONZE
+Artistic Gymnastics;Men's Team;China;BRONZE
+Artistic Gymnastics;Men's Vault;SHIRAI Kenzo;BRONZE
+Artistic Gymnastics;Women's Balance Beam;BILES Simone;BRONZE
+Artistic Gymnastics;Women's Floor Exercise;TINKLER Amy;BRONZE
+Artistic Gymnastics;Women's Individual All-Around;MUSTAFINA Aliya;BRONZE
+Artistic Gymnastics;Women's Team;China;BRONZE
+Artistic Gymnastics;Women's Uneven Bars;SCHEDER Sophie;BRONZE
+Artistic Gymnastics;Women's Vault;STEINGRUBER Giulia;BRONZE
+Athletics;Men's 10,000m;TOLA Tamirat;BRONZE
+Athletics;Men's 100m;DE GRASSE Andre;BRONZE
+Athletics;Men's 110m Hurdles;BASCOU Dimitri;BRONZE
+Athletics;Men's 1500m;WILLIS Nicholas;BRONZE
+Athletics;Men's 200m;LEMAITRE Christophe;BRONZE
+Athletics;Men's 20km Walk;BIRD-SMITH Dane;BRONZE
+Athletics;Men's 3000m Steeplechase;MEKHISSI Mahiedine;BRONZE
+Athletics;Men's 4 x 100m Relay;Canada;BRONZE
+Athletics;Men's 4 x 400m Relay;Bahamas;BRONZE
+Athletics;Men's 400m;MERRITT Lashawn;BRONZE
+Athletics;Men's 400m Hurdles;COPELLO Yasmani;BRONZE
+Athletics;Men's 5000m;GEBRHIWET Hagos;BRONZE
+Athletics;Men's 50km Walk;ARAI Hirooki;BRONZE
+Athletics;Men's 800m;MURPHY Clayton;BRONZE
+Athletics;Men's Decathlon;WARNER Damian;BRONZE
+Athletics;Men's Discus Throw;JASINSKI Daniel;BRONZE
+Athletics;Men's Hammer Throw;NOWICKI Wojciech;BRONZE
+Athletics;Men's High Jump;BONDARENKO Bohdan;BRONZE
+Athletics;Men's Javelin Throw;WALCOTT Keshorn;BRONZE
+Athletics;Men's Long Jump;RUTHERFORD Greg;BRONZE
+Athletics;Men's Marathon;RUPP Galen;BRONZE
+Athletics;Men's Pole Vault;KENDRICKS Sam;BRONZE
+Athletics;Men's Shot Put;WALSH Tomas;BRONZE
+Athletics;Men's Triple Jump;DONG Bin;BRONZE
+Athletics;Women's 10,000m;DIBABA Tirunesh;BRONZE
+Athletics;Women's 100m;FRASER-PRYCE Shelly-Ann;BRONZE
+Athletics;Women's 100m Hurdles;CASTLIN Kristi;BRONZE
+Athletics;Women's 1500m;SIMPSON Jennifer;BRONZE
+Athletics;Women's 200m;BOWIE Tori;BRONZE
+Athletics;Women's 20km Walk;LU Xiuzhi;BRONZE
+Athletics;Women's 3000m Steeplechase;COBURN Emma;BRONZE
+Athletics;Women's 4 x 100m Relay;Great Britain;BRONZE
+Athletics;Women's 4 x 400m Relay;Great Britain;BRONZE
+Athletics;Women's 400m;JACKSON Shericka;BRONZE
+Athletics;Women's 400m Hurdles;SPENCER Ashley;BRONZE
+Athletics;Women's 5000m;AYANA Almaz;BRONZE
+Athletics;Women's 800m;WAMBUI Margaret Nyairera;BRONZE
+Athletics;Women's Discus Throw;CABALLERO Denia;BRONZE
+Athletics;Women's Hammer Throw;HITCHON Sophie;BRONZE
+Athletics;Women's Heptathlon;THEISEN EATON Brianne;BRONZE
+Athletics;Women's High Jump;VLASIC Blanka;BRONZE
+Athletics;Women's Javelin Throw;SPOTAKOVA Barbora;BRONZE
+Athletics;Women's Long Jump;SPANOVIC Ivana;BRONZE
+Athletics;Women's Marathon;DIBABA Mare;BRONZE
+Athletics;Women's Pole Vault;MCCARTNEY Eliza;BRONZE
+Athletics;Women's Shot Put;MARTON Anita;BRONZE
+Athletics;Women's Triple Jump;RYPAKOVA Olga;BRONZE
+Badminton;Men's Doubles;Ellis / Langridge;BRONZE
+Badminton;Men's Singles;AXELSEN Viktor;BRONZE
+Badminton;Mixed Doubles;Zhang / Zhao;BRONZE
+Badminton;Women's Doubles;Jung / Shin;BRONZE
+Badminton;Women's Singles;OKUHARA Nozomi;BRONZE
+Basketball;Men;Spain;BRONZE
+Basketball;Women;Serbia;BRONZE
+Beach Volleyball;Men;Meeuwsen / Brouwer;BRONZE
+Beach Volleyball;Women;Ross / Walsh Jennings;BRONZE
+Boxing;Men's Bantam (56kg);NIKITIN Vladimir;BRONZE
+Boxing;Men's Fly (52kg);FINOL Yoel Segundo;BRONZE
+Boxing;Men's Heavy (91kg);TULAGANOV Rustam;BRONZE
+Boxing;Men's Light (60kg);ALVAREZ Lazaro Jorge;BRONZE
+Boxing;Men's Light Fly (46-49kg);HERNANDEZ Nico Miguel;BRONZE
+Boxing;Men's Light Heavy (81kg);BUATSI Joshua;BRONZE
+Boxing;Men's Light Welter (64kg);HARUTYUNYAN Artem;BRONZE
+Boxing;Men's Middle (75kg);RODRIGUEZ Misael Uziel;BRONZE
+Boxing;Men's Super Heavy (+91kg);DYCHKO Ivan;BRONZE
+Boxing;Men's Welter (69kg);CISSOKHO Souleymane Diop;BRONZE
+Boxing;Women's Fly (48-51kg);VALENCIA VICTORIA Ingrit Lorena;BRONZE
+Boxing;Women's Light (57-60kg);BELIAKOVA Anastasiia;BRONZE
+Boxing;Women's Middle (69-75kg);LI Qian;BRONZE
+Canoe Slalom;Canoe Double (C2) Men;Peche / Klauss;BRONZE
+Canoe Slalom;Canoe Single (C1) Men;HANEDA Takuya;BRONZE
+Canoe Slalom;Kayak (K1) Men;PRSKAVEC Jiri;BRONZE
+Canoe Slalom;Kayak (K1) Women;FOX Jessica;BRONZE
+Canoe Sprint;Men's Canoe Double 1000m;Ianchuk / Mishchuk;BRONZE
+Canoe Sprint;Men's Canoe Single 1000m;TARNOVSCHI Serghei;BRONZE
+Canoe Sprint;Men's Canoe Single 200m;QUEIROZ DOS SANTOS Isaquias;BRONZE
+Canoe Sprint;Men's Kayak Double 1000m;Tame / Wallace;BRONZE
+Canoe Sprint;Men's Kayak Double 200m;Ramanauskas / Lankas;BRONZE
+Canoe Sprint;Men's Kayak Four 1000m;Czech Republic;BRONZE
+Canoe Sprint;Men's Kayak Single 1000m;ANOSHKIN Roman;BRONZE
+Canoe Sprint;Men's Kayak Single 200m;CRAVIOTTO Saul;BRONZE
+Canoe Sprint;Women's Kayak Double 500m;Mikolajczyk / Naja;BRONZE
+Canoe Sprint;Women's Kayak Four 500m;Belarus;BRONZE
+Canoe Sprint;Women's Kayak Single 200m;OSIPENKO-RODOMSKA Inna;BRONZE
+Canoe Sprint;Women's Kayak Single 500m;CARRINGTON Lisa;BRONZE
+Cycling BMX;Men;RAMIREZ YEPES Carlos Alberto;BRONZE
+Cycling BMX;Women;HERNANDEZ Stefany;BRONZE
+Cycling Mountain Bike;Men's Cross-country;COLOMA NICOLAS Carlos;BRONZE
+Cycling Mountain Bike;Women's Cross-country;PENDREL Catharine;BRONZE
+Cycling Road;Men's Individual Time Trial;FROOME Christopher;BRONZE
+Cycling Road;Men's Road Race;MAJKA Rafal;BRONZE
+Cycling Road;Women's Individual Time Trial;VAN DER BREGGEN Anna;BRONZE
+Cycling Road;Women's Road Race;LONGO BORGHINI Elisa;BRONZE
+Cycling Track;Men's Keirin;AWANG Azizulhasni;BRONZE
+Cycling Track;Men's Omnium;HANSEN Lasse Norman;BRONZE
+Cycling Track;Men's Sprint;DMITRIEV Denis;BRONZE
+Cycling Track;Men's Team Pursuit;Denmark;BRONZE
+Cycling Track;Men's Team Sprint;France;BRONZE
+Cycling Track;Women's Keirin;MEARES Anna;BRONZE
+Cycling Track;Women's Omnium;D'HOORE Jolien;BRONZE
+Cycling Track;Women's Sprint;MARCHANT Katy;BRONZE
+Cycling Track;Women's Team Pursuit;Canada;BRONZE
+Cycling Track;Women's Team Sprint;Vogel / Welte;BRONZE
+Diving;Men's 10m Platform;BOUDIA David;BRONZE
+Diving;Men's 3m Springboard;HAUSDING Patrick;BRONZE
+Diving;Men's Synchronised 10m Platform;Daley / Goodfellow;BRONZE
+Diving;Men's Synchronised 3m Springboard;Cao / Qin;BRONZE
+Diving;Women's 10m Platform;BENFEITO Meaghan;BRONZE
+Diving;Women's 3m Springboard;CAGNOTTO Tania;BRONZE
+Diving;Women's Synchronised 10m Platform;Benfeito / Filion;BRONZE
+Diving;Women's Synchronised 3m Springboard;Keeney / Smith;BRONZE
+Equestrian;Dressage Individual;BRORING-SPREHE Kristina;BRONZE
+Equestrian;Dressage Team;United States;BRONZE
+Equestrian;Eventing Individual;DUTTON Phillip;BRONZE
+Equestrian;Eventing Team;Australia;BRONZE
+Equestrian;Jumping Individual;LAMAZE Eric;BRONZE
+Equestrian;Jumping Team;Germany;BRONZE
+Fencing;Men's Épée Individual;GRUMIER Gauthier;BRONZE
+Fencing;Men's Épée Team;Hungary;BRONZE
+Fencing;Men's Foil Individual;SAFIN Timur;BRONZE
+Fencing;Men's Foil Team;United States;BRONZE
+Fencing;Men's Sabre Individual;KIM Junghwan;BRONZE
+Fencing;Women's Épée Individual;SUN Yiwen;BRONZE
+Fencing;Women's Épée Team;Russian Federation;BRONZE
+Fencing;Women's Foil Individual;BOUBAKRI Ines;BRONZE
+Fencing;Women's Sabre Individual;KHARLAN Olga;BRONZE
+Fencing;Women's Sabre Team;United States;BRONZE
+Football;Men;Nigeria;BRONZE
+Football;Women;Canada;BRONZE
+Golf;Men's Individual Stroke Play;KUCHAR Matt;BRONZE
+Golf;Women's Individual Stroke Play;FENG Shanshan;BRONZE
+Handball;Men;Germany;BRONZE
+Handball;Women;Norway;BRONZE
+Hockey;Men;Germany;BRONZE
+Hockey;Women;Germany;BRONZE
+Judo;Men -100 kg;HAGA Ryunosuke;BRONZE
+Judo;Men -60 kg;UROZBOEV Diyorbek;BRONZE
+Judo;Men -66 kg;SOBIROV Rishod;BRONZE
+Judo;Men -73 kg;VAN TICHELT Dirk;BRONZE
+Judo;Men -81 kg;TOMA Sergiu;BRONZE
+Judo;Men -90 kg;CHENG Xunzhao;BRONZE
+Judo;Men +100 kg;SASSON Or;BRONZE
+Judo;Women -48 kg;KONDO Ami;BRONZE
+Judo;Women -52 kg;NAKAMURA Misato;BRONZE
+Judo;Women -57 kg;MONTEIRO Telma;BRONZE
+Judo;Women -63 kg;GERBI Yarden;BRONZE
+Judo;Women -70 kg;CONWAY Sally;BRONZE
+Judo;Women -78 kg;VELENSEK Anamari;BRONZE
+Judo;Women +78 kg;YU Song;BRONZE
+Marathon Swimming;Men's 10km;OLIVIER Marc-Antoine;BRONZE
+Marathon Swimming;Women's 10km;OKIMOTO Poliana;BRONZE
+Modern Pentathlon;Men's Individual;HERNANDEZ USCANGA Ismael Marcelo;BRONZE
+Modern Pentathlon;Women's Individual;NOWACKA Oktawia;BRONZE
+Rhythmic Gymnastics;Group All-Around;Bulgaria;BRONZE
+Rhythmic Gymnastics;Individual All-Around;RIZATDINOVA Ganna;BRONZE
+Rowing;Lightweight Men's Double Sculls;Strandli / Brun;BRONZE
+Rowing;Lightweight Men's Four;France;BRONZE
+Rowing;Lightweight Women's Double Sculls;Huang / Pan;BRONZE
+Rowing;Men's Double Sculls;Tufte / Borch;BRONZE
+Rowing;Men's Eight;Netherlands;BRONZE
+Rowing;Men's Four;Italy;BRONZE
+Rowing;Men's Pair;DI COSTANZO / Abagnale;BRONZE
+Rowing;Men's Quadruple Sculls;Estonia;BRONZE
+Rowing;Men's Single Sculls;SYNEK Ondrej;BRONZE
+Rowing;Women's Double Sculls;Vistartaite / Valciukaite;BRONZE
+Rowing;Women's Eight;Romania;BRONZE
+Rowing;Women's Pair;Andersen / Rasmussen;BRONZE
+Rowing;Women's Quadruple Sculls;Poland;BRONZE
+Rowing;Women's Single Sculls;DUAN Jingli;BRONZE
+Rugby Sevens;Men;South Africa;BRONZE
+Rugby Sevens;Women;Canada;BRONZE
+Sailing;470 Men;Mantis / Kagialis;BRONZE
+Sailing;470 Women;Defrance / Lecointre;BRONZE
+Sailing;49er FX Women;Salskov-Iversen / Hansen;BRONZE
+Sailing;49er Men;Heil / Ploessel;BRONZE
+Sailing;Finn Men;PAINE Caleb;BRONZE
+Sailing;Laser Men;MEECH Sam;BRONZE
+Sailing;Laser Radial Women;RINDOM Anne-Marie;BRONZE
+Sailing;Nacra 17 Mixed;Frank / Zajac;BRONZE
+Sailing;RS:X Men;LE COQ Pierre;BRONZE
+Sailing;RS:X Women;ELFUTINA Stefaniya;BRONZE
+Shooting;10m Air Pistol Men;PANG Wei;BRONZE
+Shooting;10m Air Pistol Women;KORAKAKI Anna;BRONZE
+Shooting;10m Air Rifle Men;MASLENNIKOV Vladimir;BRONZE
+Shooting;10m Air Rifle Women;YI Siling;BRONZE
+Shooting;25m Pistol Women;DIETHELM GERBER Heidi;BRONZE
+Shooting;25m Rapid Fire Pistol Men;LI Yuehong;BRONZE
+Shooting;50m Pistol Men;KIM Song Guk;BRONZE
+Shooting;50m Rifle 3 Positions Men;RAYNAUD Alexis;BRONZE
+Shooting;50m Rifle 3 Positions Women;DU Li;BRONZE
+Shooting;50m Rifle Prone Men;GRIGORYAN Kirill;BRONZE
+Shooting;Double Trap Men;SCOTT Steven;BRONZE
+Shooting;Skeet Men;ALRASHIDI Abdullah;BRONZE
+Shooting;Skeet Women;RHODE Kimberly;BRONZE
+Shooting;Trap Men;LING Edward;BRONZE
+Shooting;Trap Women;COGDELL Corey;BRONZE
+Swimming;Men's 100m Backstroke;PLUMMER David;BRONZE
+Swimming;Men's 100m Breaststroke;MILLER Cody;BRONZE
+Swimming;Men's 100m Freestyle;ADRIAN Nathan;BRONZE
+Swimming;Men's 1500m Freestyle;DETTI Gabriele;BRONZE
+Swimming;Men's 200m Backstroke;RYLOV Evgeny;BRONZE
+Swimming;Men's 200m Breaststroke;CHUPKOV Anton;BRONZE
+Swimming;Men's 200m Butterfly;KENDERESI Tamas;BRONZE
+Swimming;Men's 200m Freestyle;DWYER Conor;BRONZE
+Swimming;Men's 200m Individual Medley;WANG Shun;BRONZE
+Swimming;Men's 4 x 100m Freestyle Relay;Australia;BRONZE
+Swimming;Men's 4 x 100m Medley Relay;Australia;BRONZE
+Swimming;Men's 4 x 200m Freestyle Relay;Japan;BRONZE
+Swimming;Men's 400m Freestyle;DETTI Gabriele;BRONZE
+Swimming;Men's 400m Individual Medley;SETO Daiya;BRONZE
+Swimming;Men's 50m Freestyle;ADRIAN Nathan;BRONZE
+Swimming;Women's 100m Backstroke;MASSE Kylie;BRONZE
+Swimming;Women's 100m Breaststroke;MEILI Catherine;BRONZE
+Swimming;Women's 100m Butterfly;VOLLMER Dana;BRONZE
+Swimming;Women's 100m Freestyle;SJOSTROM Sarah;BRONZE
+Swimming;Women's 200m Backstroke;CALDWELL Hilary;BRONZE
+Swimming;Women's 200m Breaststroke;SHI Jinglin;BRONZE
+Swimming;Women's 200m Butterfly;HOSHI Natsumi;BRONZE
+Swimming;Women's 200m Freestyle;MCKEON Emma;BRONZE
+Swimming;Women's 200m Individual Medley;DIRADO Madeline;BRONZE
+Swimming;Women's 4 x 100m Freestyle Relay;Canada;BRONZE
+Swimming;Women's 4 x 100m Medley Relay;Denmark;BRONZE
+Swimming;Women's 4 x 200m Freestyle Relay;Canada;BRONZE
+Swimming;Women's 400m Freestyle;SMITH Leah;BRONZE
+Swimming;Women's 400m Individual Medley;BELMONTE GARCIA Mireia;BRONZE
+Swimming;Women's 50m Freestyle;HERASIMENIA Aliaksandra;BRONZE
+Swimming;Women's 800m Freestyle;KAPAS Boglarka;BRONZE
+Synchronised Swimming;Duets;Inui / Mitsui;BRONZE
+Synchronised Swimming;Teams;Japan;BRONZE
+Table Tennis;Men's Singles;MIZUTANI Jun;BRONZE
+Table Tennis;Men's Team;Germany;BRONZE
+Table Tennis;Women's Singles;KIM Song I;BRONZE
+Table Tennis;Women's Team;Japan;BRONZE
+Taekwondo;Men -58kg;PIE Luisito;BRONZE
+Taekwondo;Men -68kg;GONZALEZ BONILLA Joel;BRONZE
+Taekwondo;Men -80kg;OUESLATI Oussama;BRONZE
+Taekwondo;Men +80kg;SIQUEIRA Maicon;BRONZE
+Taekwondo;Women -49kg;WONGPATTANAKIT Panipak;BRONZE
+Taekwondo;Women -57kg;WAHBA Hedaya;BRONZE
+Taekwondo;Women -67kg;GBAGBI Ruth Marie Christelle;BRONZE
+Taekwondo;Women +67kg;GALLOWAY Jackie;BRONZE
+Tennis;Men's Doubles;Sock / Johnson;BRONZE
+Tennis;Men's Singles;NISHIKORI Kei;BRONZE
+Tennis;Mixed Doubles;Hradecka / Stepanek;BRONZE
+Tennis;Women's Doubles;Safarova / Strycova;BRONZE
+Tennis;Women's Singles;KVITOVA Petra;BRONZE
+Trampoline Gymnastics;Men;GAO Lei;BRONZE
+Trampoline Gymnastics;Women;LI Dan;BRONZE
+Triathlon;Men;SCHOEMAN Henri;BRONZE
+Triathlon;Women;HOLLAND Vicky;BRONZE
+Volleyball;Men;United States;BRONZE
+Volleyball;Women;United States;BRONZE
+Water Polo;Men;Italy;BRONZE
+Water Polo;Women;Russian Federation;BRONZE
+Weightlifting;Men's +105kg;TURMANIDZE Irakli;BRONZE
+Weightlifting;Men's 105kg;ZAICHIKOV Alexandr;BRONZE
+Weightlifting;Men's 56kg;KRUAITHONG Sinphet;BRONZE
+Weightlifting;Men's 62kg;KHARKI Farkhad;BRONZE
+Weightlifting;Men's 69kg;MOSQUERA LOZANO Luis Javier;BRONZE
+Weightlifting;Men's 77kg;MAHMOUD Mohamed;BRONZE
+Weightlifting;Men's 85kg;SINCRAIAN Gabriel;BRONZE
+Weightlifting;Men's 94kg;DIDZBALIS Aurimas;BRONZE
+Weightlifting;Women's +75kg;ROBLES Sarah Elizabeth;BRONZE
+Weightlifting;Women's 48kg;MIYAKE Hiromi;BRONZE
+Weightlifting;Women's 53kg;YOON Jin Hee;BRONZE
+Weightlifting;Women's 58kg;KUO Hsing-Chun;BRONZE
+Weightlifting;Women's 63kg;GORICHEVA Karina;BRONZE
+Weightlifting;Women's 69kg;AHMED Sara;BRONZE
+Weightlifting;Women's 75kg;VALENTIN PEREZ Lidia;BRONZE
+Wrestling;Men's Freestyle 125 kg;PETRIASHVILI Geno;BRONZE
+Wrestling;Men's Freestyle 57 kg;RAHIMI Hassan Sabzali;BRONZE
+Wrestling;Men's Freestyle 65 kg;NAVRUZOV Ikhtiyor;BRONZE
+Wrestling;Men's Freestyle 74 kg;HASANOV Jabrayil;BRONZE
+Wrestling;Men's Freestyle 86 kg;SHARIFOV Sharif;BRONZE
+Wrestling;Men's Freestyle 97 kg;SARITOV Albert;BRONZE
+Wrestling;Men's Greco-Roman 130 kg;SEMENOV Sergey;BRONZE
+Wrestling;Men's Greco-Roman 59 kg;BERGE Stig-Andre;BRONZE
+Wrestling;Men's Greco-Roman 66 kg;CHUNAYEV Rasul;BRONZE
+Wrestling;Men's Greco-Roman 75 kg;ABDVALI Saeid Morad;BRONZE
+Wrestling;Men's Greco-Roman 85 kg;HAMZATAU Javid;BRONZE
+Wrestling;Men's Greco-Roman 98 kg;ILDEM Cenk;BRONZE
+Wrestling;Women's Freestyle 48 kg;SUN Yanan;BRONZE
+Wrestling;Women's Freestyle 53 kg;SINISHIN Natalya;BRONZE
+Wrestling;Women's Freestyle 58 kg;MALIK Sakshi;BRONZE
+Wrestling;Women's Freestyle 63 kg;MICHALIK Monika Ewa;BRONZE
+Wrestling;Women's Freestyle 69 kg;SYZDYKOVA Elmira;BRONZE
+Wrestling;Women's Freestyle 75 kg;ZHANG Fengliu;BRONZE
+Boxing;Men's Bantam (56kg);AKHMADALIEV Murodjon;BRONZE
+Boxing;Men's Fly (52kg);HU Jianguan;BRONZE
+Boxing;Men's Heavy (91kg);SAVON Erislandy;BRONZE
+Boxing;Men's Light (60kg);DORJNYAMBUU Otgondalai;BRONZE
+Boxing;Men's Light Fly (46-49kg);ARGILAGOS Joahnys;BRONZE
+Boxing;Men's Light Heavy (81kg);BAUDERLIQUE Mathieu Albert Daniel;BRONZE
+Boxing;Men's Light Welter (64kg);DUNAYTSEV Vitaly;BRONZE
+Boxing;Men's Middle (75kg);SHAKHSUVARLY Kamran;BRONZE
+Boxing;Men's Super Heavy (+91kg);HRGOVIC Filip;BRONZE
+Boxing;Men's Welter (69kg);RABII Mohammed;BRONZE
+Boxing;Women's Fly (48-51kg);REN Cancan;BRONZE
+Boxing;Women's Light (57-60kg);POTKONEN Mira;BRONZE
+Boxing;Women's Middle (69-75kg);SHAKIMOVA Dariga;BRONZE
+Canoe Sprint;Men's Kayak Single 200m;RAUHE Ronald;BRONZE
+Judo;Men -100 kg;MARET Cyrille;BRONZE
+Judo;Men -60 kg;TAKATO Naohisa;BRONZE
+Judo;Men -66 kg;EBINUMA Masashi;BRONZE
+Judo;Men -73 kg;SHAVDATUASHVILI Lasha;BRONZE
+Judo;Men -81 kg;NAGASE Takanori;BRONZE
+Judo;Men -90 kg;GWAK Donghan;BRONZE
+Judo;Men +100 kg;SILVA Rafael;BRONZE
+Judo;Women -48 kg;GALBADRAKH Otgontsetseg;BRONZE
+Judo;Women -52 kg;KUZIUTINA Natalia;BRONZE
+Judo;Women -57 kg;MATSUMOTO Kaori;BRONZE
+Judo;Women -63 kg;VAN EMDEN Anicka;BRONZE
+Judo;Women -70 kg;VARGAS KOCH Laura;BRONZE
+Judo;Women -78 kg;AGUIAR Mayra;BRONZE
+Judo;Women +78 kg;YAMABE Kanae;BRONZE
+Swimming;Women's 100m Backstroke;FU Yuanhui;BRONZE
+Taekwondo;Men -58kg;KIM Taehun;BRONZE
+Taekwondo;Men -68kg;LEE Daehoon;BRONZE
+Taekwondo;Men -80kg;BEIGI HARCHEGANI Milad;BRONZE
+Taekwondo;Men +80kg;CHA Dongmin;BRONZE
+Taekwondo;Women -49kg;ABAKAROVA Patimat;BRONZE
+Taekwondo;Women -57kg;ALIZADEH ZENOORIN Kimia;BRONZE
+Taekwondo;Women -67kg;TATAR Nur;BRONZE
+Taekwondo;Women +67kg;WALKDEN Bianca;BRONZE
+Wrestling;Men's Freestyle 125 kg;SAIDAU Ibrahim;BRONZE
+Wrestling;Men's Freestyle 57 kg;ALIYEV Haji;BRONZE
+Wrestling;Men's Freestyle 65 kg;CHAMIZO MARQUEZ Frank;BRONZE
+Wrestling;Men's Freestyle 74 kg;DEMIRTAS Soner;BRONZE
+Wrestling;Men's Freestyle 86 kg;COX J'den Michael Tbory;BRONZE
+Wrestling;Men's Freestyle 97 kg;IBRAGIMOV Magomed Idrisovitch;BRONZE
+Wrestling;Men's Greco-Roman 130 kg;SHARIATI Sabah;BRONZE
+Wrestling;Men's Greco-Roman 59 kg;TASMURADOV Elmurat;BRONZE
+Wrestling;Men's Greco-Roman 66 kg;BOLKVADZE Shmagi;BRONZE
+Wrestling;Men's Greco-Roman 75 kg;KIM Hyeonwoo;BRONZE
+Wrestling;Men's Greco-Roman 85 kg;KUDLA Denis Maksymilian;BRONZE
+Wrestling;Men's Greco-Roman 98 kg;REZAEI Ghasem Gholamreza;BRONZE
+Wrestling;Women's Freestyle 48 kg;YANKOVA Elitsa Atanasova;BRONZE
+Wrestling;Women's Freestyle 53 kg;MATTSSON Sofia Magdalena;BRONZE
+Wrestling;Women's Freestyle 58 kg;AMRI Marwa;BRONZE
+Wrestling;Women's Freestyle 63 kg;LARIONOVA Yekaterina;BRONZE
+Wrestling;Women's Freestyle 69 kg;FRANSSON Anna Jenny;BRONZE
+Wrestling;Women's Freestyle 75 kg;BUKINA Ekaterina;BRONZE

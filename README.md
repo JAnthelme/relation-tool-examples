@@ -16,9 +16,10 @@ stack exec basics-exe
 ```
 There are 3 executable examples available: basics-exe, csv-exe and jcdate-exe. Each can be run via the command `stack exec <executable name>`:
 
-- basics-exe : basic examples to get started [\[source\]](https://github.com/JAnthelme/relation-tool-examples/blob/master/app/Basics.hs).
+- basics-exe : basic examples to get started
 - csv-exe : shows how to import a csv file into a relation and work on the data.
 - cjdate-exe : examples from C.J. Date's book, "*An Introduction to Database Systems*" Eighth Edition.
+[source codes in app folder]
 
 ## Documentation
 Check the [relation-tool library README](https://github.com/JAnthelme/relation-tool/blob/master/README.md) and the [Haddock documentation](https://janthelme.github.io/relation-tool/)

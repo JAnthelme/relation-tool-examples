@@ -19,6 +19,7 @@ There are 3 executable examples available: basics-exe, csv-exe and jcdate-exe. E
 - basics-exe : basic examples to get started
 - csv-exe : shows how to import a csv file into a relation and work on the data.
 - cjdate-exe : examples from C.J. Date's book, "*An Introduction to Database Systems*" Eighth Edition.
+
 [source codes in app folder]
 
 ## Documentation

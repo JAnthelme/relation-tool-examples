@@ -10,21 +10,21 @@ import Data.Typeable (typeOf)
 import System.Console.ANSI (Color(..), ColorIntensity(..), ConsoleLayer(..), SGR(..), clearScreen, setCursorPosition, setSGR)
 
 
--- | outputs a relation to the screen
+-- | Simple examples from the relation-tool library
 main :: IO ()
-main = do initStdout "Relation-Tool: Basic Examples\n"
+main = do initStdout "relation-tool library: Basic Examples\n"
 
-          colorStrLn Vivid White Vivid Blue "Elem types:\n"
+          colorStrLn Vivid White Dull Blue "Elem types:\n"
           putStrLn $ "*> a_lift1= " ++ show a_lift1
           putStrLn $ "*> a_lift3= " ++ show a_lift3
           putStrLn $ "*> a_lift4= " ++ show a_lift4
           putStrLn ""
 
-          colorStrLn Vivid White Vivid Blue "Creating relations:\n"
+          colorStrLn Vivid White Dull Blue "Creating relations:\n"
           putStrLn $ "*> show r_fst= " ++ show r_fst
           putStrLn ""
 
-          colorStrLn Vivid White Vivid Blue "Showing relations:\n"
+          colorStrLn Vivid White Dull Blue "Showing relations:\n"
           putStrLn $ "*> viewAll r_fst"
           viewAll r_fst
           putStrLn $ "\n*> viewAll r_chinese"
@@ -53,20 +53,20 @@ main = do initStdout "Relation-Tool: Basic Examples\n"
               r_restrict = restrict r_class (liftBoolFun f_mamm) ["CLASS"]
           viewAll r_restrict
           putStrLn $ ""
-          
+
           colorStrLn Vivid White Dull Blue "join operator:"
           putStrLn $ "\njoin r_class and r_habitat"
           let r_join = r_class `join` r_habitat
           viewAll $ r_join
           putStrLn $ ""
-          
+
           colorStrLn Vivid White Dull Blue "restrict on 2 arguments:"
           putStrLn $ "\nrestrict r_join on mammals: which mammals live in water?"
           let f_mamm_h2o x y = (x == ("mammals"::String)) && (y == ("water"::String))
               r_restrict2 = restrict r_join (liftBoolFun2 f_mamm_h2o) ["CLASS", "HABITAT"]
           viewAll r_restrict2
           putStrLn $ ""
-          
+
           colorStrLn Vivid White Dull Blue "summarize operator:"
           putStrLn $ "\nsummarize: # of class/habitat living at the zoo?"
           let r_joinall = r_join `join` r_zoo
@@ -162,7 +162,7 @@ myrel = relvar ["foo", "bar"] [typeOf (undefined::String), typeOf (undefined::Do
         ]
 mytable = table myrel (Just ["foo","bar"]) Nothing Nothing
 
-        
+
 -------------------------
 -- stdout functions - only for presentation purpose.
 -------------------------

@@ -13,17 +13,6 @@ build-type:          Simple
 extra-doc-files:  README.md
 cabal-version:       >=1.10
 
-executable relation-tool-exe
-  hs-source-dirs:      app
-  main-is:             Main.hs
-  ghc-options:         -threaded -rtsopts -with-rtsopts=-N
-  build-depends:       base
-                     , relation-tool
-                     , text, time, bytestring, containers
-                     , ansi-terminal
-                     -- temporary
-                     , directory
-  default-language:    Haskell2010
 
 executable basics-exe
   hs-source-dirs:      app
@@ -37,6 +26,28 @@ executable basics-exe
                      , directory
   default-language:    Haskell2010
 
+
+executable cjdate-exe
+  hs-source-dirs:      app
+  main-is:             CJDate.hs
+  ghc-options:         -threaded -rtsopts -with-rtsopts=-N
+  build-depends:       base
+                     , relation-tool
+                     , text, time, bytestring, containers
+                     , ansi-terminal
+                     -- temporary
+                     , directory
+  default-language:    Haskell2010
+
+executable csv-exe
+  hs-source-dirs:      app
+  main-is:             CSV.hs
+  ghc-options:         -threaded -rtsopts -with-rtsopts=-N
+  build-depends:       base
+                     , relation-tool
+--                   , text, time, bytestring, containers
+                     , ansi-terminal
+  default-language:    Haskell2010
 
 source-repository head
   type:     git
